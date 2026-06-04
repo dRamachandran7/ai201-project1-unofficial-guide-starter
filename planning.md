@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I am choosing the rate my professor page for the computer science department at Purdue. This knowledge is useful to students to give them an idea of how difficult the program might be, as well as how certain professors are regarded. The difficulty of professors and classes isn't available elsewhere, so these reviews can be used to give students intel on what classes and professors to take.
 
 ---
 
@@ -20,16 +21,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RMP  | List of profs  |https://www.ratemyprofessors.com/search/professors/783?q=*&did=11|
+| 2 | RMP | CS 240 | https://www.ratemyprofessors.com/professor/2231495
+| 3 | RMP | MGMT and 177 | https://www.ratemyprofessors.com/professor/2120117
+| 4 | RMP | CS 251 | https://www.ratemyprofessors.com/professor/2656983
+| 5 | RMP | CS 250 | https://www.ratemyprofessors.com/professor/1931762
+| 6 | RMP | CS 252 | https://www.ratemyprofessors.com/professor/132641
+| 7 | RMP | CS 182 | https://www.ratemyprofessors.com/professor/2931186
+| 8 | RMP | CS 180 | https://www.ratemyprofessors.com/professor/2523519
+| 9 | RMP | Dep head, 180 | https://www.ratemyprofessors.com/professor/2507062
+| 10 | RMP | CS 182 | https://www.ratemyprofessors.com/professor/132647
 
 ---
 
@@ -42,9 +43,15 @@
 
 **Chunk size:**
 
+Chunking can be done by a certain amount of characters since reviews are generally short paragraphs. For instance, we can start at 190 characters ber chunk. 
+
 **Overlap:**
 
+A 20 or so character overlap might be good, since that should clear any possible lost context.
+
 **Reasoning:**
+
+Reviews are generally short paragraph, and sentences are not too long. Hence, we can use a set amoutn of characters per chunk to save time and compute.
 
 ---
 
