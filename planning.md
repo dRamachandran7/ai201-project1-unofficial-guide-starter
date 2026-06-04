@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-I am choosing the rate my professor page for the computer science department at Purdue. This knowledge is useful to students to give them an idea of how difficult the program might be, as well as how certain professors are regarded. The difficulty of professors and classes isn't available elsewhere, so these reviews can be used to give students intel on what classes and professors to take.
+I am choosing the rate my professor page for the computer science department at Purdue. This knowledge is useful to students to give them an idea of how difficult the program might be, as well as how certain professors are regarded. The difficulty of professors and classes isn't available elsewhere, so these reviews can be used to give students intel on what classes and professors to take. Specifically, this is meant to guide students through the core cs classes and their professors.
 
 ---
 
@@ -21,16 +21,16 @@ I am choosing the rate my professor page for the computer science department at 
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | RMP  | List of profs  |https://www.ratemyprofessors.com/search/professors/783?q=*&did=11|
-| 2 | RMP | CS 240 | https://www.ratemyprofessors.com/professor/2231495
-| 3 | RMP | MGMT and 177 | https://www.ratemyprofessors.com/professor/2120117
-| 4 | RMP | CS 251 | https://www.ratemyprofessors.com/professor/2656983
-| 5 | RMP | CS 250 | https://www.ratemyprofessors.com/professor/1931762
-| 6 | RMP | CS 252 | https://www.ratemyprofessors.com/professor/132641
-| 7 | RMP | CS 182 | https://www.ratemyprofessors.com/professor/2931186
-| 8 | RMP | CS 180 | https://www.ratemyprofessors.com/professor/2523519
-| 9 | RMP | Dep head, 180 | https://www.ratemyprofessors.com/professor/2507062
-| 10 | RMP | CS 182 | https://www.ratemyprofessors.com/professor/132647
+| 1 | RMP  | List of profs  |https://www.ratemyprofessors.com/search/professors/783?q=*&did=11 |
+| 2 | RMP | CS 240 | https://www.ratemyprofessors.com/professor/2231495 |
+| 3 | RMP | MGMT and 177 | https://www.ratemyprofessors.com/professor/2120117 |
+| 4 | RMP | CS 251 | https://www.ratemyprofessors.com/professor/2656983 |
+| 5 | RMP | CS 250 | https://www.ratemyprofessors.com/professor/1931762 |
+| 6 | RMP | CS 252 | https://www.ratemyprofessors.com/professor/132641 |
+| 7 | RMP | CS 182 | https://www.ratemyprofessors.com/professor/2931186 |
+| 8 | RMP | CS 180 | https://www.ratemyprofessors.com/professor/2523519 |
+| 9 | RMP | Dep head, 180 | https://www.ratemyprofessors.com/professor/2507062 |
+| 10 | RMP | CS 182 | https://www.ratemyprofessors.com/professor/132647 |
 
 ---
 
@@ -43,7 +43,7 @@ I am choosing the rate my professor page for the computer science department at 
 
 **Chunk size:**
 
-Chunking can be done by a certain amount of characters since reviews are generally short paragraphs. For instance, we can start at 190 characters ber chunk. 
+Chunking can be done by a certain amount of characters since reviews are generally short paragraphs. For instance, we can start at 90 characters ber chunk. 
 
 **Overlap:**
 
@@ -51,7 +51,7 @@ A 20 or so character overlap might be good, since that should clear any possible
 
 **Reasoning:**
 
-Reviews are generally short paragraph, and sentences are not too long. Hence, we can use a set amoutn of characters per chunk to save time and compute.
+Reviews are generally short paragraph, and sentences are not too long. Hence, we can use a set amoutn of characters per chunk to save time and compute. By chunking each review slightly smaller, we can also isolate certain opinions and ideas better.
 
 ---
 
@@ -65,9 +65,15 @@ Reviews are generally short paragraph, and sentences are not too long. Hence, we
 
 **Embedding model:**
 
+We will be using the all-MiniLM-L6-v2 via sentence-transformers model to embed. 
+
 **Top-k:**
 
+Seeing as there are not many professors for each course, a top-k of 3 would be a good starting point. This would allow for multiple profs who teach the same class to be addressed, as well as the full list of profs in the department. 
+
 **Production tradeoff reflection:**
+
+We might want to make sure we have more space for storing context, so that the llm would be able to hold a conversation, as opposed to just answering questions.
 
 ---
 
@@ -80,11 +86,11 @@ Reviews are generally short paragraph, and sentences are not too long. Hence, we
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Who generally teaches CS 180? | Dunsmore, Bergstrom, and sometimes Turkstra. |
+| 2 | What are some common complaints about CS 240? | Turkstra's grading scale, length of homeworks |
+| 3 | Who are some of the better-regarded professors? | Gustavo, Bergstrom, Dunsmore |
+| 4 | Who teaches CS 182? What are some greivances with them? | CS 182 is generally taught by Selke and Szpankowski. Both have complaints about their accents. |
+| 5 | Who teaches CS 252, and what is the general consensus on them? | CS 252 is generally taught by Gustavo Rodriguez-Rivera, and he has generally positive reviews. |
 
 ---
 
@@ -94,9 +100,9 @@ Reviews are generally short paragraph, and sentences are not too long. Hence, we
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. There are quite a few satirical reviews on the site which an llm may not be able to recognize as satire, and may use as legitamite information. Therefore, it may produce some unexpected and incorrect responses.
 
-2.
+2. In addition to satirical reviews, there are also very short ones. These chunks might throw off the chunking splits, and lead to some information being lost.
 
 ---
 
@@ -108,7 +114,7 @@ Reviews are generally short paragraph, and sentences are not too long. Hence, we
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
----
+Ingestion: Web scraping script that scrapes reviews and key info as plain text -> Chunking: python code to create 90 character chunks -> Embedding: sentence_transformers.SentenceTransformer('all-MiniLM-L6-v2') to create embeddings for each chunk -> Vector store: ChromaDB, using collection.add(documents=chunks, embeddings=embeddings, ids=ids, metadatas=metadatas) to add embeddings from previous step into vector DB. Can collect the professors and classes as metadata to be used for filtering in the next step -> Generation: groq, 
 
 ## AI Tool Plan
 
