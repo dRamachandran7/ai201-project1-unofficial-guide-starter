@@ -1,0 +1,43 @@
+Professor: Sarah Selke
+Department: Computer Science
+School: Purdue University - West Lafayette
+Course (from planning.md): CS 182
+Overall quality: 1.7/5
+Average difficulty: 4.4/5
+Would take again: 14.2857%
+Total ratings: 7
+Source: https://www.ratemyprofessors.com/professor/2931186
+
+============================================================
+--- Review 1 ---
+Class: CS182 | Date: 2026-04-30 | Quality: 1/5 | Difficulty: 5/5 | Grade: B
+Tags: Tough grader
+Comment: Extremely boring lectures. Does not explain concepts well.
+
+--- Review 2 ---
+Class: CS182 | Date: 2026-02-12 | Quality: 1/5 | Difficulty: 5/5 | Grade: B-
+Comment: Do NOT take if possible. Is not a good lecturer and cannot explain concepts smoothly without losing train of thought. Bad time management across lectures: will spend half one class on a basic example, then rush through examples on the hardest topic of the year. Loses students attention without 4 weeks of course.
+
+--- Review 3 ---
+Class: CS182 | Date: 2024-05-23 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Comment: Thick Chinese accent makes it hard to understand anything. It honestly feels as if she doesn't know what she is talking about. Homework is a pain, especially writing it in LaTeX which most people haven't used before. CS182 is known for being a dumpster fire of a course so don't feel too bad if you aren't doing as good as you hoped.
+
+--- Review 4 ---
+Class: CS182 | Date: 2024-05-12 | Quality: 2/5 | Difficulty: 4/5 | Grade: B
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: There was a big disconnect between what was taught and what was on the homework. The average person without any background in discreet math simply cannot do the homework with just attending the lectures. You need to attend office hours and/or PSOs. Exams were slightly easier than homeworks. Be prepared to self-study a lot.
+
+--- Review 5 ---
+Class: CS182 | Date: 2024-05-07 | Quality: 1/5 | Difficulty: 5/5 | Grade: C+
+Tags: Lots of homework, Lecture heavy
+Comment: This professor, and by extension, this class is one of the worst experiences I have had while at Purdue University. To start, this is one of the most disorganized courses I have ever taken in my life. There is a substantial disconnect between what the professor talks about, and the professor doesn't seem to realize other courses exist.
+
+--- Review 6 ---
+Class: CS182 | Date: 2024-05-07 | Quality: 1/5 | Difficulty: 4/5 | Grade: A
+Tags: Lots of homework, Lecture heavy
+Comment: Just read off the slide in lectures. You are expected to know things that are not taught in lecture, with no specific mention of it. Course felt really disorganized. I learned more watching youtube videos. Ended up sleeping through most of the lectures i did attend.
+
+--- Review 7 ---
+Class: CS182 | Date: 2023-10-27 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B+
+Tags: Caring, Graded by few things, Accessible outside class
+Comment: I had selke for 182 when she co-taught with Dey and she was great. She was very easy to approach and was very helpful, willing to take the time to re-explain topics and go over things with students. One of the better CS profs I've had here.

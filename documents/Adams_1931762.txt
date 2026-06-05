@@ -1,0 +1,717 @@
+Professor: George Adams
+Department: Computer Science
+School: Purdue University - West Lafayette
+Course (from planning.md): CS 250
+Overall quality: 2.7/5
+Average difficulty: 4.1/5
+Would take again: 37.8571%
+Total ratings: 143
+Source: https://www.ratemyprofessors.com/professor/1931762
+
+============================================================
+--- Review 1 ---
+Class: CS351 | Date: 2026-04-30 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A-
+Comment: Not sure why this class isn't required in most CS tracks due to its relevance in contemporary software development. Although lecture heavy, GBA is like a walking encyclopedia. If you have a half decent attention span and genuinely enjoy Computer Science (and want to learn about distributed systems) you'll enjoy this class and Prof. Adams.
+
+--- Review 2 ---
+Class: CS250 | Date: 2026-03-05 | Quality: 1/5 | Difficulty: 4/5 | Grade: A-
+Tags: Tough grader, Get ready to read, Test heavy
+Comment: Professor Adams is passionate, but it lacks in the class structure. The exams are trivia-style questions rather than testing your understanding of computer architecture. Expect to self-study for this class and spend time reading the textbook, as lectures aren't very helpful. You'll learn a lot this way, but don't expect a good grade.
+
+--- Review 3 ---
+Class: CS250 | Date: 2026-01-14 | Quality: 1/5 | Difficulty: 5/5 | Grade: B
+Tags: Get ready to read
+Comment: He just reads everything from the textbook during lectures. His lab setup is pretty bad, as it absolutely does not prepare you well for the courses later down the road (CS252). The avg for the final exam was a 55%. He will ask you the stuff you'd find in the corner of a textbook during midterms and finals. Bro also argues on Ed...
+
+--- Review 4 ---
+Class: CS250 | Date: 2026-01-10 | Quality: 1/5 | Difficulty: 4/5 | Grade: A
+Tags: Tough grader, Get ready to read, Test heavy
+Comment: By far the most disorganized of the core CS classes. GBA is clearly passionate about the topic and his lectures are serviceable, but he runs the course horribly. Homeworks don't help you learn the material, labs don't have you meaningfully applying what you learn, and exams are terribly worded and vague. Snarky and unhelpful on ED. Generous Curve.
+
+--- Review 5 ---
+Class: CS250 | Date: 2026-01-07 | Quality: 1/5 | Difficulty: 5/5 | Grade: B-
+Tags: Get ready to read
+Comment: GBA is by far the worst professor I've had at Purdue. The labs are poorly worded, badly designed, and fail to encourage meaningful application of the material. The exams are similarly flawed, using convoluted wording that tests English grammar more than Computer Architecture. He is also condescending toward students on Ed ("unask the question").
+
+--- Review 6 ---
+Class: CS250 | Date: 2026-01-07 | Quality: 1/5 | Difficulty: 4/5 | Grade: B+
+Tags: Get ready to read, Lecture heavy, Test heavy
+Comment: Professor Adams's class was without structure. To do good you had to memorize the entirety of his ridiculously long online textbook. He is clearly passionate, but gets off track without clear goals. Everything was through "dint of student effort"; practice exam released the day before, no solutions, refused to answer anything on EdDiscussion posts.
+
+--- Review 7 ---
+Class: CS250 | Date: 2026-01-01 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A-
+Tags: Tough grader, Get ready to read, Inspirational
+Comment: He's the kind of professor everyone should have at least once.
+
+--- Review 8 ---
+Class: CS250 | Date: 2025-12-25 | Quality: 1/5 | Difficulty: 4/5 | Grade: A-
+Tags: Tough grader, Get ready to read, Test heavy
+Comment: The exam questions were ambiguous and unclear. Even if you know the material well, the wording makes it difficult to succeed. There were issues in midterm grading and labs being unfair across sections.
+
+--- Review 9 ---
+Class: CS250 | Date: 2025-12-24 | Quality: 1/5 | Difficulty: 5/5 | Grade: A-
+Comment: By far the worst professor I've had at Purdue. The labs for the majority of the class were answering questions on Word docs. Instructions were confusingly worded and unclear. We never once did any coding whatsoever. Exams were basically a test of how well you can interpret his questions. I don't know anyone that got an A in the class.
+
+--- Review 10 ---
+Class: CS250 | Date: 2025-12-24 | Quality: 1/5 | Difficulty: 4/5 | Grade: A-
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Sometimes rude/unhelpful on Ed Discussion. Several questions worded poorly, don't properly test understanding. Accepts question appeals once in a blue moon. Doesn't communicate with lab TAs, they give contradicting advice. Lectures help but not much better than textbook. Near impossible A. Very frustrating experience. 1/5 because he deserves it.
+
+--- Review 11 ---
+Class: CS250 | Date: 2025-12-24 | Quality: 1/5 | Difficulty: 5/5 | Grade: A
+Tags: Tough grader, Get ready to read
+Comment: Labs and exams were mistake prone. Test questions were often ambiguous or on subtle nuances, you had to guess how Adams interprets the wording of the question. Lectures help but just don't prepare you well enough. Office hours and appointments were relatively good. Not 1/5 but I'm counterbalancing the guy who gave 5/5 to balance other 1/5s.
+
+--- Review 12 ---
+Class: CS250 | Date: 2025-12-21 | Quality: 1/5 | Difficulty: 5/5 | Grade: A-
+Comment: Avoid him when possible. He makes it nearly impossible to get an A. Exam questions are poorly written and test on his "interpretation" of the question, a majority of which are vague. Not a very kind person either as he is unwilling to help students besides only answering questions about lecture content. Doesn't seem like he enjoys teaching anymore.
+
+--- Review 13 ---
+Class: CS250 | Date: 2025-12-21 | Quality: 1/5 | Difficulty: 5/5 | Grade: A-
+Comment: - you have to self learn everything on your own, his lectures are extremely boring
+- extremely opposed to answering ed discussion posts when you ask him for general help
+- writes exam questions 2am the night before the exam
+- answers on exam are wrong and he still tries to argue that he's right
+- nearly impossible to get an A, < 5 students did
+
+--- Review 14 ---
+Class: CS250 | Date: 2025-12-21 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Exam questions are more reading comprehension and most questions attempt to trick the test taker, not actually test any knowledge on computer architecture. Professor thinks he's smarter than everyone else, and makes this known on Edstem by being demeaning and passive aggressive, and not actually answering any questions. Avoid, even if required.
+
+--- Review 15 ---
+Class: CS250 | Date: 2025-12-20 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Get ready to read, Test heavy
+Comment: Tests feel like you're on a gameshow trying to win a million dollars, except there are 5 answer choices instead of 4. Options like "cannot be determined" or "insufficient evidence" often show up on super ambiguous questions where you have to guess what he's actually asking. Dude tanked everyone's GPA this semester.
+
+--- Review 16 ---
+Class: CS250 | Date: 2025-12-20 | Quality: 2/5 | Difficulty: 4/5 | Grade: B-
+Tags: Tough grader, Get ready to read, Lecture heavy
+Comment: Lectures felt boring, and he goes on random side quests by overly explaining content. The lectures don't feel like a review of the actual content covered in the textbook, which made me not go to this lectures ever.
+
+--- Review 17 ---
+Class: CS250 | Date: 2025-12-19 | Quality: 1/5 | Difficulty: 3/5 | Grade: A-
+Comment: Adams 250 felt more like a guessing game than a class. Textbook answers were misleading and marked wrong on exams; exams did not cover material gone over in class; and lectures were mostly Adams rambling about random computer history that was not relevant to the class.
+
+--- Review 18 ---
+Class: CS250 | Date: 2025-12-19 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy
+Comment: Labs are completely disorganized with no clear direction from TAs or the professor, tests are incomprehensible, and resources are insufficient.
+
+--- Review 19 ---
+Class: CS250 | Date: 2025-12-17 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Worst professor at Purdue. Argues with students even when they are right and he is wrong. Refuses to reward any credit back on tests even if the key is wrong or the question is clearly poorly written. Mocks students when they ask questions. Final was incredibly difficult, barely covered the new content, questions were essentially riddles. Avoid.
+
+--- Review 20 ---
+Class: CS250 | Date: 2025-12-16 | Quality: 1/5 | Difficulty: 5/5
+Tags: Get ready to read, Lecture heavy, Graded by few things
+Comment: While Prof. Adams is clearly passionate about what he teaches and is a generally good lecturer, he has by far some of the WORST tests I have ever seen. Focuses on testing whether you remember obscure trivia rather than if you truly understand the material. Furthermore, the tests are structured to be ambiguous and an english comprehension test.
+
+--- Review 21 ---
+Class: CS250 | Date: 2025-12-16 | Quality: 1/5 | Difficulty: 4/5
+Comment: Instead of being tested on our mastery of computer architecture concepts, exam questions were merely poorly-worded trivia. I do not find it fair for my answer to depend on what I THINK the professor meant when writing the question! Because of that, exam preparation was ineffective, and the course was completely unenjoyable.
+
+--- Review 22 ---
+Class: CS250 | Date: 2025-12-16 | Quality: 1/5 | Difficulty: 5/5 | Grade: Incomplete
+Tags: Tough grader, Get ready to read, Graded by few things
+Comment: For a class I was looking forward to taking, Adams did a great job at ruining that experience. The class is a disorganized mess entirely based on reading a textbook with very little to no opportunity to apply the topics we learn in class. The labs started off as enjoyable, but then devolved into filling out Word documents with major errors.
+
+--- Review 23 ---
+Class: CS250 | Date: 2025-12-16 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Get ready to read, Test heavy
+Comment: People complain about Adams/CS 250 a lot yet the lecture hall is only 20% filled every time and their idea of studying is "reading the textbook" and wondering why they don't perform well. Adam's tests are admittedly hard to understand due to wording, but you can do well if you actually apply yourself. GO TO LECTURE. IT HELPS.
+
+--- Review 24 ---
+Class: CS250 | Date: 2025-12-15 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Lecture heavy
+Comment: The worst Professor I've had the displeasure of enduring. No amount of study, knowledge, or preparation helps. I thought I'd already taken SCLA, but clearly this class is another req, since it is based on your understanding of his English comprehension. This course was so poorly run that he got more questions wrong on his midterm than I did.
+
+--- Review 25 ---
+Class: 250 | Date: 2025-12-03 | Quality: 1/5 | Difficulty: 3/5 | Grade: A
+Comment: Does not care about the success of students, stubborn.
+
+--- Review 26 ---
+Class: CS250 | Date: 2025-12-03 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Get ready to read, Test heavy
+Comment: Professor George B. Adams writes the tests for the course based on trivia and trick questions, rather than testing on the material taught in lecture. All study content provided for the exams is completely unrelated to the form the exams take. He seems to lack a comprehensive vision for the way the course is ran, and the students are left to suffer.
+
+--- Review 27 ---
+Class: CS250 | Date: 2025-10-12 | Quality: 1/5 | Difficulty: 5/5 | Grade: C
+Tags: Tough grader
+Comment: Easily the worst professor I've had at Purdue. Read the textbook.
+
+--- Review 28 ---
+Class: CS250 | Date: 2025-10-07 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A+
+Tags: Get ready to read, Inspirational, Beware of pop quizzes
+Comment: Good prof, lots of experience. But for example make sure you read the book he provides! Greate lecture but topic is broad
+
+--- Review 29 ---
+Class: CS250 | Date: 2025-10-07 | Quality: 1/5 | Difficulty: 3/5
+Tags: Tough grader, Get ready to read
+Comment: Lectures are primarily him putting the textbook on screen and reading directly from it, while labs are filled with errors. Exams are written in a way that does not test comprehension of course material; instead, they seem designed to confuse. Dr. Adams consistently replies to Ed posts in a patronizing tone, as though talking down to students.
+
+--- Review 30 ---
+Class: CS351 | Date: 2025-05-15 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: Clear grading criteria, Lecture heavy
+Comment: It was a pretty chill class, and Prof Adams was an interesting lecturer. He gave lots of extra info to contextualize things better. While he would sometimes go on tangents, they didn't take away too much from the lectures. Overall, I enjoyed the class content, and homeworks and exams were pretty straightforward.
+
+--- Review 31 ---
+Class: CS250 | Date: 2025-05-14 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A-
+Tags: Amazing lectures , Caring, Test heavy
+Comment: If you did the labs and HWs you basically got a free 40% in the class.
+Meaning your grade was entirely based on how you did on the 60% that were exams.
+Exams were hard but overall fairly graded. Adams was open to regrades if justified.
+His lectures were some of the best I have had at Purdue.
+The course itself is just hard.
+
+--- Review 32 ---
+Class: 250 | Date: 2025-05-03 | Quality: 1/5 | Difficulty: 4/5 | Grade: Incomplete
+Tags: Tough grader
+Comment: I now have PTSD whenever I see anyone wearing a black mask because of Adams.
+
+--- Review 33 ---
+Class: 250 | Date: 2025-04-04 | Quality: 1/5 | Difficulty: 4/5 | Grade: Incomplete
+Comment: The worst professor I've ever had. Horrible at lecturing & goes off about random topics, super vague about what is going to be tested until the last minute. Always behind on releasing stuff. The worst is that he answers questions (specifically on Ed) with backhanded & rude comments, ignoring the actual question and refusing to tell the answer.
+
+--- Review 34 ---
+Class: CS180 | Date: 2025-01-15 | Quality: 3/5 | Difficulty: 4/5 | Grade: A-
+Tags: Tough grader, Group projects
+Comment: George Adams was a fabulous lecturer. There were times when he'd go off on a tangent talking about hardware, but overall he was a well equipped professor.
+
+--- Review 35 ---
+Class: CS180 | Date: 2025-01-14 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A | Online class: Yes
+Comment: Professor Adams has a passion for the material, but his lectures can be a bit dry. Still, if you stay engaged and use resources like the textbook and unstuck AI, you can do well. The course itself isn't too difficult, especially if you have prior coding experience.
+
+--- Review 36 ---
+Class: CS180 | Date: 2024-12-19 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Comment: Smart, friendly, and very knowledgeable too, even about CS182 concepts. 
+Unsure why some people say he doesn't teach. The slides were there, he happily answered any questions, and people comfortably responded to his questions in class. If you have to stoop that low to leave a 1 rating and say he doesn't teach, sorry but I don't think CS is for you.
+
+--- Review 37 ---
+Class: CS180 | Date: 2024-12-18 | Quality: 1/5 | Difficulty: 5/5 | Grade: D
+Tags: Lecture heavy, Test heavy, Graded by few things
+Comment: bro this man does not do anything. Everything is based off of TAs. His lectures teach you nothing that will be on the test. If you take him do NOT fall behind or you'll be cooked. No notes were ever posted, and studying for exams is ACTUALLY IMPOSSIBLE
+
+--- Review 38 ---
+Class: CS180 | Date: 2024-12-14 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Tough grader, Group projects, Amazing lectures
+Comment: A very passionate and friendly person. He does tend to go into hardware due to his ECE background, but is goodly theoretical. This allows us to learn the theory behind seemingly easy concepts, so that when newer changes come, we can adapt easily.
+
+--- Review 39 ---
+Class: CS180 | Date: 2024-10-09 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Tough grader, Group projects, Lots of homework
+Comment: Mysterious in a good way. Great explanations into hardware and the homeworks felt like I was building stuff on my own, making me a better programmer. He's also very helpful and understands jokes.
+
+--- Review 40 ---
+Class: CS180 | Date: 2024-05-07 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Comment: Very knowledgeable and passionate although his lectures for 180 were kind of dry since he would go on tangents about hardware. It was interesting but it's not helpful for those who didn't understand that class material. He is very approachable and was a pretty good professor for CS180 who answered questions very well.
+
+--- Review 41 ---
+Class: CS180 | Date: 2024-05-05 | Quality: 1/5 | Difficulty: 5/5 | Grade: B
+Tags: Tough grader, Test heavy
+Comment: Had him for 182. Just switch to someone else if you do too. 182 is an extremely difficult class on its own, but his lecture style made it that much harder.
+
+--- Review 42 ---
+Class: CS180 | Date: 2024-04-18 | Quality: 4/5 | Difficulty: 2/5 | Grade: A
+Tags: Group projects
+Comment: Attendance was mandatory but the lectures were difficult to follow because he often went on tangents about material unrelated to what was actually supposed to be taught in the course. Other than that, he seemed like a nice guy and the homework was manageable. Very easy especially if you took AP CSA.
+
+--- Review 43 ---
+Class: CS180 | Date: 2024-01-25 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: Group projects
+Comment: His lectures were fine. Heavily text based but he does drawings to help sometimes. Homeworks have readmes that give clear instructions. Exam materials are very much covered in class. People rating this professor poorly probably have a skill issue!
+
+--- Review 44 ---
+Class: CS180 | Date: 2024-01-16 | Quality: 1/5 | Difficulty: 2/5 | Grade: B+
+Tags: Group projects, Lots of homework
+Comment: No Bueno.
+
+--- Review 45 ---
+Class: CS180 | Date: 2023-12-31 | Quality: 3/5 | Difficulty: 2/5 | Grade: A
+Tags: Group projects, Clear grading criteria, Lecture heavy
+Comment: His lectures could be worded better, as they were not easy to follow even as someone who took AP CS. He does talk about hardware a bit and goes on tangents, which makes it difficult to pay attention in class consistently. If you have coding experience with java, then taking cs180 with him isn't too bad.
+
+--- Review 46 ---
+Class: CS250 | Date: 2023-12-20 | Quality: 1/5 | Difficulty: 4/5 | Grade: B+
+Tags: Tough grader, Get ready to read
+Comment: Severus Snape reincarnated. Dry lectures, poorly worded questions and unclear grading criteria.
+
+--- Review 47 ---
+Class: CS180 | Date: 2023-12-18 | Quality: 4/5 | Difficulty: 2/5 | Grade: A
+Tags: Group projects, Lots of homework
+Comment: Adam's is quite monotone and likes to talk about hardware a lot (which is mostly unnecessary in object oriented programming), but CS180 itself isn't bad, especially if you have prior coding experience. Just start the homework and projects early and be aware of your group for projects 4 & 5, as they're worth a lot of your grade and a lot of work.
+
+--- Review 48 ---
+Class: CS180 | Date: 2023-12-12 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Comment: While he does tend to go on tangents and talk about hardware and memory in an introductory class like CS180, he is overall a fine lecturer and managed to stay on pace. For the course in general, keep on top of the weekly homeworks and start your group project early.
+
+--- Review 49 ---
+Class: CS180 | Date: 2023-12-08 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: Get ready to read, Participation matters, Group projects
+Comment: He tends to digress and talk about hardware and his time at NASA, but overall a good lecturer.
+
+--- Review 50 ---
+Class: CS250 | Date: 2023-11-13 | Quality: 4/5 | Difficulty: 5/5 | Would take again: Yes | Grade: B
+Tags: Get ready to read, Amazing lectures , Lecture heavy
+Comment: Honestly, I'm not really sure why he gets so much hate. I honestly thought that he was fine. CS 25000 is lecture heavy, and as long as if you go to class and pay attention and take good notes, you should be fine. He also gave us more than a 10 percent curve for the Spring 2023 semester, so that's even better.
+
+--- Review 51 ---
+Class: CS101 | Date: 2023-10-31 | Quality: 2/5 | Difficulty: 4/5 | Grade: A-
+Tags: Test heavy
+Comment: Professor often went on tangents unlike the other CS180 professors.
+
+--- Review 52 ---
+Class: CS250 | Date: 2023-10-28 | Quality: 1/5 | Difficulty: 3/5 | Grade: A
+Tags: Tough grader
+Comment: Dude hasn't matured since high school. Doesn't have an ounce of respect in his body, talks to students like pests. I don't understand why he doesn't quit his job, he clearly hates what he does. VILE attitude in discussion boards. He's the type to say "uhhh technically, " when you ask a question, with extra disrespect, instead of just answering you.
+
+--- Review 53 ---
+Class: CS250 | Date: 2023-10-28 | Quality: 1/5 | Difficulty: 4/5 | Grade: A-
+Tags: Tough grader, Test heavy
+Comment: Extremely passive aggressive in class discussions. Is clearly unleashing some internal issues on students. So far the rudest professor I've had, seriously needs to spend some time learning how to treat people with respect. Loves reminding everyone that he knows the topics and they don't. I learned more from youtube videos than from his lectures.
+
+--- Review 54 ---
+Class: CS250 | Date: 2023-10-27 | Quality: 1/5 | Difficulty: 4/5 | Grade: B+
+Tags: Tough grader, Test heavy
+Comment: Rude. In a regrade request (i verified my answer with an IDE so I know I was correct), I said "i believe my answer is correct," and this snarky, rude man replies: "Algorithms are not evaluated on anyone's belief. The are evaluated based on analysis." What a childish response by George, a full grown man, btw. Oh, and he didn't give me my points back
+
+--- Review 55 ---
+Class: CS250 | Date: 2023-05-15 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A+
+Tags: Get ready to read, Amazing lectures , Test heavy
+Comment: Amazing lectures, extremely passionate about the subject. Class itself is very content-heavy and hard to master, but he does a great job delivering information in an interesting way. Some questions on exams and homeworks are difficult to comprehend, and can sometimes be a bit ambiguous. Generous curve given at the end of the class made up for it.
+
+--- Review 56 ---
+Class: 250 | Date: 2023-05-06 | Quality: 5/5 | Difficulty: 1/5 | Would take again: Yes | Grade: C
+Tags: Get ready to read, Amazing lectures , Test heavy
+Comment: Professor Adams teaches a difficult course that is difficult to fully master. He understands that topics are difficult and unfamiliar and while he does not decrease the difficulty of his exams, he does give a fair grade that reflects the effort you put in.
+
+--- Review 57 ---
+Class: CS250 | Date: 2023-04-25 | Quality: 3/5 | Difficulty: 5/5 | Grade: C
+Tags: Tough grader, Lecture heavy, Test heavy
+Comment: I think everyone else here has done him about justice. Tests are brutal and lectures aren't always approachable or easy to follow. He's a fun, passionate guy but his passion just wears off after the first few weeks.
+
+--- Review 58 ---
+Class: CS101 | Date: 2023-03-07 | Quality: 1/5 | Difficulty: 3/5 | Grade: A
+Tags: Tough grader
+Comment: I'm in Prof. Adams's GenEd class, CS101. He's clearly upset that he teaches an easy class, and tries so hard to make it difficult. His questions on tests are like riddles: he does not care if you know the material, he just likes to trick students in his questions and take points off. I have an A, and he refused my homework that was 15 minutes late.
+
+--- Review 59 ---
+Class: CS250 | Date: 2023-02-24 | Quality: 1/5 | Difficulty: 5/5 | Grade: C+
+Tags: Tough grader, Lecture heavy, Test heavy
+Comment: Wrote tests in riddles and lectures were very dry and boring.
+
+--- Review 60 ---
+Class: CS250 | Date: 2022-12-23 | Quality: 3/5 | Difficulty: 4/5 | Grade: A-
+Tags: Tough grader, Get ready to read
+Comment: Adams definitely knows the subject well and is passionate about it. His tests are pretty much just memorization but the homeworks aren't that bad. Reading the book helps a lot. The wording of questions is pretty bad though: They are worded so confusingly for no reason. His lectures are pretty good though they can sometimes be boring.
+
+--- Review 61 ---
+Class: CS250 | Date: 2022-12-22 | Quality: 4/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Tags: Tough grader, Amazing lectures , Accessible outside class
+Comment: Great at lecturing and brings a lot of energy to the lessons, and overall is very clear in his explanations of the topics. However, he cannot write good exam questions to save his life. Often, the questions are just unclear or poorly written and he does not respond well to criticism on that front (Reluctant to change his mind, but not impossible).
+
+--- Review 62 ---
+Class: CS250 | Date: 2022-12-21 | Quality: 2/5 | Difficulty: 4/5 | Grade: C
+Tags: Tough grader
+Comment: Questions that read more like riddles than actual questions, awful homeworks, extremely poorly designed tests are all components of this course. While I think that the professor is genuinely passionate about the material, he ruins it entirely by how he assesses knowledge. Condescending and unhelpful replies do not help either.
+
+--- Review 63 ---
+Class: CS250 | Date: 2022-12-21 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: C
+Tags: Tough grader, Amazing lectures , Test heavy
+Comment: Prof. Adams is clearly passionate about CompA! But, be sure to DEFINITELY attend lectures since his slides aren't easy to understand without lecture context. Also, his exams are memorization-heavy, so study ALOT and know the content extremely well (use office hours!). Only 2 midterms + 1 final so do really well. Don't rely too much on a curve. GL
+
+--- Review 64 ---
+Class: CS250 | Date: 2022-12-21 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B
+Tags: Tough grader, Amazing lectures , Accessible outside class
+Comment: Adams is very passionate about his subject and you can definitely see it in his lectures. But be prepared to put in hours towards his class.  His labs get hard fast, and doing them helps you understand certain aspects of the course in depth, but still be wary of his exams. You just need to memorize everything to do well on his exams.
+
+--- Review 65 ---
+Class: CS250 | Date: 2022-12-21 | Quality: 3/5 | Difficulty: 5/5 | Grade: A-
+Tags: Tough grader, Accessible outside class
+Comment: Prof. Adams has an often vague way of asking questions on homeworks and exams which cause unnecessary confusion. He also does a little trolling. However, he is a passionate and available professor and has a sense of humor. I'd advise anyone taking 250 with him to read the textbook often: that ended up helping me keep up / prepare for exams.
+
+--- Review 66 ---
+Class: CS250 | Date: 2022-12-21 | Quality: 2/5 | Difficulty: 5/5 | Grade: B
+Tags: Tough grader, Get ready to read, Amazing lectures
+Comment: Enthusiastic lecturer and knows a lot of about comp arch. However, his homework are written in the very confusing terms, and when we ask on discussion forum, he replies with passive aggressive answers. MC/FR exam requires you to memorize terms mentioned orally in the lecture. Decided on no curve with 57% exam avg then changed mind last minute.
+
+--- Review 67 ---
+Class: CS250 | Date: 2022-12-20 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Tags: Tough grader, Lecture heavy, Test heavy
+Comment: bad
+
+--- Review 68 ---
+Class: 250 | Date: 2022-12-20 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A | Online class: Yes
+Tags: Tough grader, Hilarious, Caring
+Comment: People complaining are crybabies in CS who cannot survive themselves and need a pack.
+Enrolling in a course does not guarantee you won't fail. Instead of barking on discord and being radical, try attending townhalls arranged by USB.  Mere high school graduates pumped to rally and write a letter to the HOD and not following a complaint hierarchy.
+
+--- Review 69 ---
+Class: CS250 | Date: 2022-12-19 | Quality: 1/5 | Difficulty: 5/5 | Grade: B-
+Tags: Tough grader, Get ready to read
+Comment: This guy is an actual nutcase. You cannot understand his lectures the first go and have to decipher his homework and test problems before actually understanding and solving them. Also, a huge dick about grading, didn't round my grade by .07% to give me a higher letter grade. Try to avoid if you can
+
+--- Review 70 ---
+Class: CS250 | Date: 2022-12-19 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A-
+Tags: Amazing lectures , Inspirational, Hilarious
+Comment: I liked his course. No curve but you get what you deserve.
+
+--- Review 71 ---
+Class: CS250 | Date: 2022-12-19 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Tags: Tough grader, Get ready to read, Lecture heavy
+Comment: This guy is horrible. Just terrible. 57% final average like too many ppl failed the course, 0 curve, around 4 ppl with an A. I dont know what he is doing but he's bad but only professor for 250
+
+--- Review 72 ---
+Class: CS250 | Date: 2022-12-19 | Quality: 1/5 | Difficulty: 5/5 | Grade: A-
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Our final had a 57 average. The highest was an 85. We had no curve.
+
+--- Review 73 ---
+Class: CS250 | Date: 2022-12-15 | Quality: 1/5 | Difficulty: 5/5 | Grade: B
+Tags: Tough grader, Get ready to read, Graded by few things
+Comment: The homework and exams are confusing to the point where the TAs aren't even able to assist without studying the question and answer key. This class desperately needs a curve but none is given. Though Adams is frequently on the discussion board, his answers are arrogant and do not address the question that is passed by the student. Terrible class.
+
+--- Review 74 ---
+Class: CS250 | Date: 2022-12-15 | Quality: 1/5 | Difficulty: 5/5 | Grade: B
+Tags: Tough grader, Get ready to read
+Comment: The wording on his tests are not very clear, and he gives out no study guides in order to help prepare for his brutal tests.
+
+--- Review 75 ---
+Class: CS250 | Date: 2022-12-14 | Quality: 3/5 | Difficulty: 4/5 | Grade: B
+Tags: Lots of homework
+Comment: A nice guy and generally, like his lectures although they could be boring at times. The big is that the way he writes questions is just so confusing. He will make the simplest question feel like you don't know how to read. And then the way he tests does not reflect how he emphasizes things in class. asks about the most random little things.
+
+--- Review 76 ---
+Class: CS250 | Date: 2022-12-14 | Quality: 1/5 | Difficulty: 5/5 | Grade: Incomplete
+Comment: Just very confusing in the way he answers questions, explains topics, and writes assignments. Also, the way he answers students' questions often feels very rude. He either talks down to us like answers should be obvious or give a convoluted response making it difficult to have questions answered. 
+
+TLDR: Smart dude but very difficult.
+
+--- Review 77 ---
+Class: CS250 | Date: 2022-11-18 | Quality: 1/5 | Difficulty: 4/5 | Grade: B
+Tags: Tough grader, Lecture heavy
+Comment: He goes by his lectures slides extremely quickly. It's hard to know what to take notes of. On homeworks, labs, and tests, the instructions given are sometimes ambiguous and confusing.
+
+--- Review 78 ---
+Class: CS250 | Date: 2022-09-22 | Quality: 1/5 | Difficulty: 2/5 | Grade: Incomplete
+Tags: Tough grader
+Comment: He's quite proud of his ability to rewrite his exams from scratch each year, regardless of how badly he words each question or doesn't provide his students a way to study for his exams. In addition, too many of the exam questions are so badly written that there are often > two interpretations available, which are too easy to confuse.
+
+--- Review 79 ---
+Class: 250 | Date: 2022-09-21 | Quality: 1/5 | Difficulty: 5/5
+Comment: Let me preface this by saying that he's an enthusiastic prof. who's passionate about what he's teaching. However, his lectures are incredibly confusing with too many points crammed into one slide. His questions are horribly worded and are designed to trick you instead of aiding your comprehension. Otherwise interesting class ruined by a bad prof.
+
+--- Review 80 ---
+Class: CS250 | Date: 2022-09-12 | Quality: 1/5 | Difficulty: 4/5 | Grade: B
+Tags: Tough grader, Lecture heavy, Test heavy
+Comment: By far the worst cs professor I have had, the most boring dry lectures to go along with poorly designed slides and scattered non-linear discussions. The questions on hw, labs, and exams is worded horrendously, like the he is trying to mess with your head instead of teaching. Sadly he was (and normally is) the only CS250 professor, 1/5
+
+--- Review 81 ---
+Class: CS250 | Date: 2022-08-11 | Quality: 1/5 | Difficulty: 5/5 | Grade: C
+Tags: Tough grader, Get ready to read, Lots of homework
+Comment: My least favorite professor in the CS department. Boring, dry lectures, precariously worded questions on assignments, and tedious labs. Unfortunately he is the gatekeeper of CS 250; when I took this course, he was the only professor you could choose.
+
+--- Review 82 ---
+Class: CS250 | Date: 2022-06-23 | Quality: 1/5 | Difficulty: 5/5 | Grade: C+
+Tags: Lecture heavy, Test heavy
+Comment: Run as soon as possible.
+He will use any of confusing word expressions in homework, quiz, and exam.
+
+--- Review 83 ---
+Class: CS250 | Date: 2022-05-06 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Amazing lectures , Lots of homework
+Comment: He is indeed a good lecturer and enthusiastic to teach you. I appreciate this side of him. However, the grading for 101 class is insane. A starts from 94 for no reason
+He never truly admits his mistake. Exams are just insanely tricky; even though you have studied, he will find a way to let you down if you are looking for a grade.
+
+--- Review 84 ---
+Class: CS250 | Date: 2022-01-10 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures, Tough grader
+Comment: Adams gives great lectures with energy and examples, and I found that I learned much, much more in his class than the other CS250 sections. However, he is not very good at answering questions, he is stubborn about regrading, and his homework and exam questions are worded with the intent to confuse. The curve was about a full letter grade.
+
+--- Review 85 ---
+Class: CS250 | Date: 2021-12-24 | Quality: 3/5 | Difficulty: 5/5 | Would take again: Yes | Grade: B
+Tags: Gives good feedback, Get ready to read, Tough grader
+Comment: Professor Adams seems like a cool guy with lots of knowledge and enthusiasm about his subject! But his style of writing quiz questions often leads confusion about the intent of the problem. Probably one of the hardest CS classes I've taken so far (more so than 381) because of that. I only would take a course with him again due to his expertise.
+
+--- Review 86 ---
+Class: CS250 | Date: 2021-12-21 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No
+Tags: Get ready to read, Skip class? You won't pass., Tough grader
+Comment: Our average for this semester was lower than previous semesters and he did not give us any curve even though previous semesters had such a good curve. Also, he does not know how to teach for his life, in his lectures he will go off on random tangents and talk about INTEL or DELL or some random stuff that's not related to the lecture at all.
+
+--- Review 87 ---
+Class: CS250 | Date: 2021-12-18 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No | Grade: A-
+Tags: Lecture heavy, So many papers, Tough grader
+Comment: Did not teach well and only about 12 people out 300 would show up for his lectures. Don't expect any curves because he only curves if the grade average of the class is low.
+
+--- Review 88 ---
+Class: CS250 | Date: 2021-12-17 | Quality: 4/5 | Difficulty: 5/5 | Would take again: Yes | Grade: B+
+Tags: Accessible outside class, Get ready to read, Tough grader
+Comment: One of the best people in the CS dept hands-down. Very fun to talk to, incredibly active either on Campuswire or in his numerous office hours, and very willing to help. However, has some of the toughest, most cryptic, and easily misinterpreted questions I ever saw. It mostly feels like RNG when I am solving quizzes. Not to mention a ton of reading.
+
+--- Review 89 ---
+Class: CS250 | Date: 2021-12-16 | Quality: 2/5 | Difficulty: 5/5 | Would take again: No | Grade: B
+Tags: Lots of homework, Amazing lectures, Tough grader
+Comment: His grade is exetremly tough. Less than three percent got A thus semester cut off for A is ninety-four, while no one got more than ninety five percent. There was less than one percent curve if you are not in C range. He is good lecturer, but I highly recommend to take with other professor since you will get better grade with less workload.
+
+--- Review 90 ---
+Class: CS250 | Date: 2021-12-16 | Quality: 1/5 | Difficulty: 4/5 | Would take again: No
+Tags: Lecture heavy, Tough grader
+Comment: Avoid at all costs. He never answers questions from students in a clear way, always answering with something cryptic, and you can never negotiate with him about anything. If he makes a mistake on a quiz/exam, he will just get defensive and try his best to gaslight you into thinking you were the one who made a mistake. Please avoid I'm begging you.
+
+--- Review 91 ---
+Class: CS250 | Date: 2021-12-11 | Quality: 1/5 | Difficulty: 4/5 | Would take again: No | Grade: C-
+Tags: Lots of homework, Lecture heavy, Tough grader
+Comment: First I would like to say that this professor knows his information like the back of his hand. However, if you have a question for this class don't bother asking unless you want to decode the answer. Every answer to a question is either another question or a form of the answer that is worded in a way that makes you somehow more confused.
+
+--- Review 92 ---
+Class: CS250 | Date: 2021-12-08 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No
+Comment: Terrible professor, avoid at all costs. He refuses to help students out when they have questions, and when he does answer them, Adams will make you more confused or even guide you in the wrong direction. Also, if you go to office hours for help, he will turn you away, saying he is too busy.
+
+--- Review 93 ---
+Class: CS250 | Date: 2021-11-16 | Quality: 1/5 | Difficulty: 4/5 | Would take again: No
+Tags: Get ready to read, Tough grader
+Comment: Makes understandable concepts more confusing, doesn't answer questions with an answer (basically leaving students more confused than they already were), makes quizzes extremely hard, and has unrealistic expectations from students coding in assembly for the first time in lab. Not to mention the mass amounts of reading along with 3 lectures a week.
+
+--- Review 94 ---
+Class: CS250 | Date: 2021-11-15 | Quality: 2/5 | Difficulty: 4/5 | Would take again: No
+Tags: Get ready to read, Tough grader
+Comment: He's sarcastic and makes you more confused when you ask him questions. He's not a bad lecturer but the way he conducts class is simply arrogant and does not inspire passion in what is being taught. Furthermore, his language when asking questions in homework is simply bizarre, so much so that native English speakers are confused.
+
+--- Review 95 ---
+Class: CS250 | Date: 2021-10-27 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No | Grade: C
+Tags: Lots of homework, Get ready to read
+Comment: He sucks. Doesn't teach anything for labs and never answers questions clearly. He will always just answer your question with a question, I am convinced he has no clue what he is talking about. Hope you don't get him.
+
+--- Review 96 ---
+Class: CS250 | Date: 2021-09-22 | Quality: 1/5 | Difficulty: 4/5 | Would take again: No
+Comment: The content of this class isn't actually that hard, but they way he explains everything is terrible. He speaks in an overcomplicated way during lectures, gives useless non-answers to even the simplest of questions, and accepts no feedback on anything. Homework problems end up being simple after taking hours to decipher the confusing language.
+
+--- Review 97 ---
+Class: CS101 | Date: 2021-05-05 | Quality: 5/5 | Difficulty: 1/5 | Would take again: Yes | Grade: A | Online class: Yes
+Tags: Respected, Accessible outside class, Amazing lectures
+Comment: Professor Adams is a great lecturer and a fascinating professor to talk to. He's always accessible for questions and gives great feedback as well.
+
+--- Review 98 ---
+Class: CS250 | Date: 2021-04-23 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A | Online class: Yes
+Tags: Amazing lectures, Tough grader
+Comment: His lectures are very good, he explains things very clearly and is very engaging to listen to. However, everything else in the course is anything but. Many homework questions make no sense. If you ask him a question he will always reply sarcastically and never give an actual answer. Quizzes and exams are intentionally worded confusingly.
+
+--- Review 99 ---
+Class: CS250 | Date: 2020-12-17 | Quality: 2/5 | Difficulty: 5/5 | Would take again: No | Grade: A | Online class: Yes
+Tags: Test heavy, Lecture heavy, Tough grader
+Comment: This class was a bit of a mess. I will admit, I think Professor Adams is a great lecturer. It's just the way he writes his questions that makes the course crazy hard. The material itself is not that bad, but rather trying to figure out how he would expect us to answer a question. I didn't get an A from studying, but rather luck.
+
+--- Review 100 ---
+Class: CS250 | Date: 2020-12-17 | Quality: 2/5 | Difficulty: 4/5 | Would take again: No | Online class: Yes
+Tags: Amazing lectures
+Comment: This is frustrating. Prof Adams is a stellar lecturer, however, his exams have a penchant for bizarre, counter-intuitive readings used which often result in a low exam average. This is often (partially) offset by a generous curve at the end of the semester, but it's frustrating enough to merit the score given.
+
+--- Review 101 ---
+Class: CS250 | Date: 2020-12-17 | Quality: 3/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Tags: Lots of homework, Lecture heavy, Tough grader
+Comment: This class was definitely one of the hardest out of the core CS classes. As others have said, his lectures are pretty good for the most part, but they can still be boring at times. The homeworks/labs/mini-exams weren't easy and part of the reason for that was a lack of clear concise wording. The final exam was terribly hard, but he did curve well.
+
+--- Review 102 ---
+Class: CS250 | Date: 2020-12-15 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A | Online class: Yes
+Tags: Accessible outside class, Amazing lectures, Caring
+Comment: One of the most organized and caring professors in the CS department. Spends a lot of time responding to student questions and making quality lecture videos. His style each semester is making brutally hard exams, but making up for it with a thick curve at the very end.
+
+--- Review 103 ---
+Class: CS250 | Date: 2020-12-03 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No | Grade: A- | Online class: Yes
+Tags: Lots of homework, Lecture heavy, Tough grader
+Comment: Worst professor ever. If you think Turkstra is bad, wait till you get George. Extremely unfair with grading. He can never admit that he's wrong. He literally changed the grading distribution 3/4's into the semester, making us do and long and tedious assignment that ended up not counting for our grade.
+
+--- Review 104 ---
+Class: CS250 | Date: 2020-12-02 | Quality: 2/5 | Difficulty: 5/5 | Would take again: No
+Comment: Lectures fine, but the wordings on his assignments and tests are bizarre that he even admitted his class is a low-key English class. He always asserts himself to be right and is unwilling to compromise whenever he makes mistakes, such as when people get something wrong on the homework because of an error in the lecture slides. Avoid if possible.
+
+--- Review 105 ---
+Class: CS250 | Date: 2020-11-24 | Quality: 3/5 | Difficulty: 5/5 | Would take again: No | Grade: A- | Online class: Yes
+Tags: Accessible outside class, Amazing lectures, Tough grader
+Comment: Don't get me wrong he's an amazing lecturer and seems very passionate about the class in general. However, his exams are worded horrendously. There are a consistent amount of students who simply get the question wrong because of the wording in the question. This class should fulfill our English requirement for the college of science.
+
+--- Review 106 ---
+Class: CS250 | Date: 2020-09-28 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Comment: Amazing lecturer. Labs were okay, the TA's for my lab were really bad so that kind of ruined my experience. Exams are a crapshoot. In office hours, he sometimes he gets his own past exam questions wrong because they are worded so vaguely.
+
+--- Review 107 ---
+Class: CS250 | Date: 2020-04-11 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No | Grade: C+
+Tags: Lots of homework, Test heavy, Tough grader
+Comment: The worst course I have taken. It's too difficult.
+
+--- Review 108 ---
+Class: CS250 | Date: 2020-04-04 | Quality: 3/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Respected, Accessible outside class, Skip class? You won't pass.
+Comment: For CS182, Adams explains things concisely and in an easy to understand manner. I do not think he does the same for CS250. He is obviously passionate about hardware, but it is difficult to understand his lectures where he seems to skim over everything and provide little detail. His exams and HW are also not representatives of lectures.
+
+--- Review 109 ---
+Class: CS250 | Date: 2020-02-13 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Lots of homework, Inspirational, Amazing lectures
+Comment: Prof. Adams was the best professor I had in Purdue CS, and his class was the most difficult I took. If you actually want to learn, his lectures are incredible and he goes out of his way to help students succeed. Really knowledgeable and had fair exams.
+
+--- Review 110 ---
+Class: CS250 | Date: 2019-12-18 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Comment: I dropped out of CS because I was bad at it and unmotivated. The lecturers felt dead and the material was hard and I wasn't interested at all. Adams was the exception. He loved teaching and inspired me to learn more about the subject. I'll remember him as an amazing person in CS.
+
+--- Review 111 ---
+Class: CS250 | Date: 2019-07-12 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Comment: Took CS250 in s18 and worked for him as a TA for the next three semesters. Adams is a fantastic lecturer, and a genuinely nice guy. Shows a lot of passion for the topics. He expects a lot out of hist students. Exams are difficult, homeworks are difficult, a couple labs are hard. Homeworks are taken straight from the textbook.
+
+--- Review 112 ---
+Class: CS250 | Date: 2019-05-06 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Comment: His lectures are entertaining though I don't like hardware. However, his exams are very difficult. I mean, it is hard to understand what he is really trying to ask. Anyway he gave a big curve so I ended up with an A although I got 66% in the final.
+
+--- Review 113 ---
+Class: CS250 | Date: 2019-04-01 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Get ready to read
+Comment: Professor Adams has an almost tangible enthusiasm for computer hardware and is up to date with all hardware happenings. He once explained the difference in cpu speed and # of cycles to retrieve memory from disk. CPU being 10^6 times as fast is like a jet travelling 1k m/sec waiting on a snail at 1m/hour. Will have to read the textbook to pass well.
+
+--- Review 114 ---
+Class: CS250 | Date: 2019-01-12 | Quality: 2/5 | Difficulty: 4/5 | Would take again: No | Grade: A-
+Tags: Tough Grader, Skip class? You won't pass., LOTS OF HOMEWORK
+Comment: By far the most overrated professor at Purdue. Don't understand why so many people like him. Only his delivery is good, his content and exams suck. He doesn't slow down at all and his lectures are quite frankly hard to understand. He assumes that everyone is as passionate as him and thinks everyone understands hardware the same way he does.
+
+--- Review 115 ---
+Class: CS250 | Date: 2018-12-20 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Tags: Skip class? You won't pass., ACCESSIBLE OUTSIDE CLASS, Amazing lectures
+Comment: Adams is one of the best lecturers I have had at Purdue. However, the test are truly insane. Be prepared to study like crazy for weeks for the faintest chance of getting a 60. You just gotta do your best and pray for a curve.
+
+--- Review 116 ---
+Class: CS250 | Date: 2018-12-08 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Participation matters, ACCESSIBLE OUTSIDE CLASS, Amazing lectures
+Comment: His lectures are entertaining. He's very good at casting doubt on what you think you know on the test. The homeworks/labs make you work for your grade. He has lots to share on computer architecture so if you get the chance to ask him about his work, do so!
+
+--- Review 117 ---
+Class: CS250 | Date: 2018-05-15 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Gives good feedback, Respected, ACCESSIBLE OUTSIDE CLASS
+Comment: He's a great professor, and very willing to have conversations and explain material to you. He's very, very interested in the material, even if its a little dry. He's very enthusiastic. Class material is still hard.
+
+--- Review 118 ---
+Class: CS250 | Date: 2018-01-31 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Tags: Respected, Get ready to read, Amazing lectures
+Comment: Just amazing.
+
+--- Review 119 ---
+Class: CS250 | Date: 2018-01-09 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: ACCESSIBLE OUTSIDE CLASS, Amazing lectures, Tests are tough
+Comment: Prof. Adams is a fantastic, passionate lecturer and devotes a lot of time outside of class to holding office hours and helping students. He's an expert in the material and explains it very well at an introductory level, and he's very approachable. His tests and homeworks are quite tough, but he curves fairly.
+
+--- Review 120 ---
+Class: CS250 | Date: 2017-12-20 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Clear grading criteria, Amazing lectures, Tests are tough
+Comment: Adams is a great lecturer and very passionate about Computer Architecture. His tests cover more in depth than the book or his lectures. Overall very solid course and professor.
+
+--- Review 121 ---
+Class: CS250 | Date: 2017-12-15 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A-
+Tags: Gives good feedback, Respected, ACCESSIBLE OUTSIDE CLASS
+Comment: The best.
+
+--- Review 122 ---
+Class: CS250 | Date: 2017-12-06 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Gives good feedback, Respected, ACCESSIBLE OUTSIDE CLASS
+Comment: Prof. Adams is great. His lectures are almost always interesting and enjoyable. He holds lots of office hours to answer questions, and he does give great answers.
+
+--- Review 123 ---
+Class: CS250 | Date: 2017-11-17 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Tough Grader, Get ready to read, Amazing lectures
+Comment: This guy is awesome. He is very enthusiastic. Cs250 is hard. If you pay attention and read the textbook, you would not have any problem. He posts slides. You do not have to take notes. Exams are not straight forward. He is always available to answer your question.
+
+--- Review 124 ---
+Class: CS250 | Date: 2017-11-11 | Quality: 3/5 | Difficulty: 5/5 | Would take again: No | Grade: B+
+Tags: Get ready to read, Skip class? You won't pass., LOTS OF HOMEWORK
+Comment: He's way too distracted while talking.
+
+--- Review 125 ---
+Class: CS250 | Date: 2017-11-01 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, Inspirational, ACCESSIBLE OUTSIDE CLASS
+Comment: Great professor. He's great at explaining things clearly and entertaining while doing so. Holds a ton of office hours and is very accessible outside of class. The class is difficult, but it's graded fairly and if you work hard you'll do fine. All in all, easily the best professor I've had at Purdue.
+
+--- Review 126 ---
+Class: CS250 | Date: 2017-08-02 | Quality: 2/5 | Difficulty: 5/5 | Would take again: No
+Comment: His slides is full of information and exams are not related to what was covered in class.
+
+--- Review 127 ---
+Class: CS250 | Date: 2017-05-09 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: ACCESSIBLE OUTSIDE CLASS, Amazing lectures, Caring
+Comment: Adams is probably the best professor I've ever had. I've never met someone so willing to help--he holds a crazy number of office hours and answers questions on Piazza almost instantaneously. His lectures are really lively and he's a really funny guy--def worth going to office hours to get to know him. Not an easy class, but super worth it with him.
+
+--- Review 128 ---
+Class: CS250 | Date: 2017-05-04 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Tags: Gives good feedback, Respected, ACCESSIBLE OUTSIDE CLASS
+Comment: Great Professor! Enthusiastic and Knowledgeable. Go to his office hours. I wish I would have. He is someone you want to know. Take his class. The class is hard but if you try your best you will do well.
+
+--- Review 129 ---
+Class: CS250 | Date: 2017-04-29 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Gives good feedback, Respected, Amazing lectures
+Comment: Phenomenal, often humorous lectures. In-depth, easy to understand explanation of content. Labs and homework are challenging, but force you to actually learn.  Thorough feedback is returned. Listens to the students and is available 24/7. Exams are reasonably difficult. Adams is a superhero among men. Only con is that his questions can be very vague.
+
+--- Review 130 ---
+Class: CS250 | Date: 2017-04-18 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Get ready to read, Skip class? You won't pass., LOTS OF HOMEWORK
+Comment: Very enthusiastic, great professor overall. Ignoring the class, he is a great guy. You'll find that in class he is a nerd, during office hours he is overall interesting. The class itself is tough, it isn't the professor. He's always there and I've found that even at 11 p.m., he still is helping. If you need to take this class, GBA is the way to go.
+
+--- Review 131 ---
+Class: CS250 | Date: 2017-04-05 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No
+Tags: Get ready to read, LOTS OF HOMEWORK
+Comment: Lecture, homework and exam are not related at all.
+
+--- Review 132 ---
+Class: CS250 | Date: 2017-03-12 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Get ready to read, ACCESSIBLE OUTSIDE CLASS, Caring
+Comment: Adams is a great guy. He had an insane number of office hours, and is willing to go off syllabus to help you succeed if you ask nicely. He makes things clear. He's really proud of that book, you're going to have to read every assigned page twice and study the diagrams. He speaks slowly. If you decide to watch lectures online, make sure to keep up.
+
+--- Review 133 ---
+Class: CS250 | Date: 2017-03-07 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Gives good feedback, Respected, Amazing lectures
+Comment: His lectures are phenomenal and he explains topics very well. His questions are often very specific and tricky, to the point where the are unhelpful and do not accurately test the student's knowledge. He is fun-loving and will drop dry humor throughout lecture. If you argue for points using logic and the textbook, he will reward you.
+
+--- Review 134 ---
+Class: CS250 | Date: 2017-02-27 | Quality: 4/5 | Difficulty: 4/5 | Would take again: No | Grade: A-
+Tags: Tough Grader, Gives good feedback, LOTS OF HOMEWORK
+Comment: CS250 was a hard class. Adams is very enthusiastic and expects you to know a lot. On exams, he tested on things he only mentioned once. Labs and homeworks do take a good amount of time as well.
+
+--- Review 135 ---
+Class: CS250 | Date: 2017-01-25 | Quality: 3/5 | Difficulty: 4/5 | Would take again: No
+Tags: Respected, Get ready to read, LECTURE HEAVY
+Comment: He's a decent professor. I really like his passion for teaching and he is very helpful and enthusiastic. However, the lectures do get a little boring sometimes and his lecture slides are crammed with lots and lots of text.
+
+--- Review 136 ---
+Class: CS250 | Date: 2017-01-03 | Quality: 2/5 | Difficulty: 4/5 | Would take again: No | Grade: A-
+Tags: Get ready to read, ACCESSIBLE OUTSIDE CLASS, Caring
+Comment: Amazing person and burningly passionate for the subject he teaches, but unfortunately just does not teach the material very well. I know he tries so hard to make the lectures interesting as he floods with enthusiasm, but he doesn't do a good job of hinting what exactly you'll need to study and not which sucks cause there's so much material thrown
+
+--- Review 137 ---
+Class: CS250 | Date: 2016-12-12 | Quality: 3/5 | Difficulty: 4/5 | Would take again: No
+Tags: Respected, Get ready to read, TEST HEAVY
+Comment: Professor Admas is a good lecturer, he is always willing to help and teach you new things, but he always leaves tons of formidable slides and readings for you to read and study. Exams are not that easy.
+
+--- Review 138 ---
+Class: CS250 | Date: 2016-12-11 | Quality: 3/5 | Difficulty: 5/5 | Would take again: No
+Tags: Get ready to read, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS
+Comment: Really passionate about what he teaches, but because of his EE background, he goes way too in-depth on topics and rambles a lot during class. Exams are extremely hard even if you study and class has over 1000 slides for the final exam.  Too much material crammed into one course imo which makes retaining knowledge on what was taught difficult.
+
+--- Review 139 ---
+Class: CS250 | Date: 2016-11-28 | Quality: 1/5 | Difficulty: 3/5 | Would take again: No | Grade: A
+Tags: LOTS OF HOMEWORK, LECTURE HEAVY
+Comment: He's not a good teacher at all. Lecture is boring. Lab is absurd. Too much homework. Exam material is not on HW or lab or textbook. You literally need be able to connect with God to know where to study. There also $40 textbook that looks like crap.
+
+--- Review 140 ---
+Class: CS250 | Date: 2016-11-10 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Comment: Amazing professor, amazing lecturer. Class is quite hard, but I'd go so far as to say it's worth it, because he's that good.
+
+--- Review 141 ---
+Class: CS250 | Date: 2015-04-26 | Quality: 5/5 | Difficulty: 4/5 | Grade: A
+Comment: Professor Adam's is one of the best professor's I've had at Purdue. He comes from a ECE background and is a hardware guy so expect more detail in that regard than necessary. But his lectures are interesting and you can tell he cares about what he teaches. It's not a easy class at all but keep up and it will be a class where you learn a ton.
+
+--- Review 142 ---
+Class: CS250 | Date: 2015-01-13 | Quality: 1/5 | Difficulty: 4/5
+Comment: His test's do not test you over what you have learned or studied for. The material is fairly easy, so he likes to word the questions so they are all impossible to read or comprehend.
+
+--- Review 143 ---
+Class: 250 | Date: 2014-12-16 | Quality: 4/5 | Difficulty: 4/5
+Comment: To me the exams felt quite hard and the class seemed to go into more depth than probably necessary. Mosfets and such especially in the beginning.
+
+--- Review 144 ---
+Class: 250 | Date: 2014-10-28 | Quality: 5/5 | Difficulty: 3/5
+Comment: Pros: Makes every lecture interesting, really easy to understand and explains concepts really well, helpful if you don't understand something, actually cares about the material he's teaching.  Cons: (Mostly) weekly homework assignments

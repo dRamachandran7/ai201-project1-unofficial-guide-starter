@@ -1,0 +1,258 @@
+Professor: Anthony Bergstrom
+Department: Computer Science
+School: Purdue University - West Lafayette
+Course (from planning.md): CS 180
+Overall quality: 2.6/5
+Average difficulty: 3.4/5
+Would take again: 41.1765%
+Total ratings: 50
+Source: https://www.ratemyprofessors.com/professor/2523519
+
+============================================================
+--- Review 1 ---
+Class: CS180 | Date: 2026-05-07 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Lots of homework, Respected
+Comment: Very Good Professor. I don't think he makes the 180 curriculum so he should not be the one to blame about the tests and homework.
+
+--- Review 2 ---
+Class: CS180 | Date: 2026-04-30 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Caring, Lecture heavy
+Comment: Yes, the class (especially Spring 2026) can be difficult, but he does a great job in his lectures, has well thought out explanations, gives well made attendance quiz problems, and I would say his teaching does serve to improve the average student's understanding of the course. Good professor.
+
+--- Review 3 ---
+Class: CS180 | Date: 2026-04-22 | Quality: 3/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A-
+Tags: Group projects
+Comment: I found his lectures boring and hard to stay focused on, but you can tell he knows his stuff and is willing to answer questions. Pop quizzes sound scary but there are enough drops to where it's basically a glorified attendance score (I had an 89% average on the quizzes and got full points in the gradebook). HW is mostly pretty chill.
+
+--- Review 4 ---
+Class: CS180 | Date: 2026-01-29 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Group projects
+Comment: Had for CS 180. Professor can ramble and it is sometimes easy to get distracted then become lost (especially during examples). Provides decent explanations of concepts. The rest here is specific to CS 180. TAs and lab instructors have a bad rep and can be unhelpful. Also, there is a HUGE leap in difficulty after the first exam so be locked in.
+
+--- Review 5 ---
+Class: CS180 | Date: 2026-01-17 | Quality: 4/5 | Difficulty: 4/5 | Grade: B
+Tags: Caring, Online Savvy
+Comment: good professor
+
+--- Review 6 ---
+Class: CS180 | Date: 2026-01-07 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: Group projects, Lots of homework, Test heavy
+Comment: Prof. Bergstrom was a good lecturer. The class difficulty ramps up after the first midterm. Labs were time sinks but otherwise the class content helped you learn OOP very well. Very similar to AP CSA if you took that before. Exams had low averages but if you practice they are easy.
+
+--- Review 7 ---
+Class: CS180 | Date: 2025-12-26 | Quality: 3/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Comment: Overall, he's not a bad professor. He seems to care about his students and is knowledgeable about the subject. The lectures are alright, but you'll need to review the slides after class and when studying for exams to fully understand everything. The midterms were manageable, and the final wasn't too bad.
+
+--- Review 8 ---
+Class: CS180 | Date: 2025-12-25 | Quality: 2/5 | Difficulty: 2/5 | Grade: A+
+Tags: Group projects, Lots of homework, Beware of pop quizzes
+Comment: Professor Bergstrom is a fairly decent teacher&#8212;that being said, he has a heavy emphasis on keeping multiple quizzes during each lecture which WILL contribute to your grade so make sure you're attentive at all times. The projects aren't too bad, but how your final group project goes really depends on the group members you end up with (good luck!)
+
+--- Review 9 ---
+Class: CS180 | Date: 2025-12-25 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Comment: Take note of everything in the slides (be able to recall/explain and write any code/concept). He does slip some important concepts in the lecture implicitly, so note everything. 
+
+If you do this, you can do well on the midterms. However, the final is genuinely unfair and will tank your grade. 
+
+It helps so much to have prior java/coding experience!
+
+--- Review 10 ---
+Class: CS242 | Date: 2025-12-23 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Tough grader, Lecture heavy, Test heavy
+Comment: lectures were okay. i never really paid attention in class so i had to self-study for the exams, which were pretty tough btw. the final grade was generously curved, so i can't complain.
+
+--- Review 11 ---
+Class: CS180 | Date: 2025-12-23 | Quality: 3/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Tags: Participation matters, Lots of homework, Accessible outside class
+Comment: Not a bad professor. He seems to care about his students and clearly cares about what he's teaching and knows what he's doing. Lectures are alright, not amazing but not too bad either, you will probably need to review the slides after each class to actually understand everything. The midterms were FRQ and not too bad, but the MCQ final was brutal.
+
+--- Review 12 ---
+Class: CS242 | Date: 2025-12-22 | Quality: 3/5 | Difficulty: 3/5 | Grade: A
+Comment: Very Meh. Boring lecturer, multiple days where I just tuned him out. Did not explain complex topics well, so had to self-teach for the final. Labs and homework were usually not time-intensive, and you can complete the occasional homework in lab. Projects were graded easily. Final was a lot harder than the practice exam he provided us.
+
+--- Review 13 ---
+Class: CS180 | Date: 2025-12-17 | Quality: 3/5 | Difficulty: 3/5
+Tags: Group projects, Lots of homework, Beware of pop quizzes
+Comment: I don't really mind Bergstrom as a professor. He was accessible outside of class and clearly wants to make sure every student does well. Problem is with CS180's structure as a whole. The work you have to do outside of class is insane and you have to be on top of everything just so you don't fall behind. Use the labs; they're pretty helpful.
+
+--- Review 14 ---
+Class: CS180 | Date: 2025-12-13 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Group projects, Lots of homework, Caring
+Comment: Bergstrom is a good professor imo. Was accessible after class for questions. Lectures were a bit confusing at times but I know his lectures were better than Turkstra's (apparently he didn't upload his coding examples from class to Brightspace).
+
+--- Review 15 ---
+Class: CS180 | Date: 2025-12-08 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B
+Tags: Group projects, Lots of homework, Test heavy
+Comment: This is more of a rating on CS180 Fall 2025. The class structure is set up well in a way to learn the content. Labs are a good way to learn the content. Class EXTREMELY picks up the pace after the first exam. The difference between weeks 1-6 and 7-16 are night and day. Start projects early as they do take time if you start late. Huge Group Project.
+
+--- Review 16 ---
+Class: CS180 | Date: 2025-12-01 | Quality: 2/5 | Difficulty: 3/5 | Grade: A-
+Tags: Participation matters, Group projects, Respected
+Comment: Experienced and knowledgeable, but his lectures were hard to follow. He jumped between topics with little structure, and for an intro class he expected students to know more than they realistically would. If possible, take this course with Dunsmore instead.
+
+--- Review 17 ---
+Class: CS180 | Date: 2025-11-14 | Quality: 1/5 | Difficulty: 5/5 | Grade: Incomplete
+Tags: Tough grader, Lots of homework, Graded by few things
+Comment: Might be one of the worst teachers I've ever seen in my life. Horribly vague explanations and insane workloads outside of class. Pretty impossible to truly learn the content effectively as the TA's are just as unhelpful and don't care about their responsibilities. Don't take this course, it WILL tank your GPA.
+
+--- Review 18 ---
+Class: CS180 | Date: 2025-11-05 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Lots of homework, Beware of pop quizzes
+Comment: Poorly written tests, many students find the questions unclear and have no idea what's going on. Mumbles during lectures. Really tough on exams. Expect to remember every code from the slides and I MEAN EVERY CODE. Bergstrom is no joke.
+
+--- Review 19 ---
+Class: CS180 | Date: 2025-10-29 | Quality: 1/5 | Difficulty: 5/5 | Grade: Audit/No Grade
+Comment: Bro, I don't think he even knows how to turn on a computer. Like, what is this guy doing? Who even is he? He just puts up random quizzes on the screen that no one has any clue about&#8212;let me remind you, graded quizzes. Then when the quiz ends, he says, &#8216;Oops, forgot to teach this topic, my bad.' But it still gets graded.
+
+--- Review 20 ---
+Class: CS180 | Date: 2025-09-13 | Quality: 1/5 | Difficulty: 1/5 | Grade: B
+Tags: Tough grader, Group projects, So many papers
+Comment: Never take him
+
+--- Review 21 ---
+Class: CS180 | Date: 2025-02-14 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Tags: Lecture heavy, Test heavy, Graded by few things
+Comment: this course is too hard for students that wants to CODO. take another professor's class.
+
+--- Review 22 ---
+Class: CS180 | Date: 2025-02-12 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: You can barely hear him in the lecture hall. There is once that his speaker got turned off and he left it off for the whole class.
+
+--- Review 23 ---
+Class: CS180 | Date: 2025-02-12 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Gotta be prepared for the exams. He is super tough on the exams. The exams are in person short answer, hand written. Also it takes up 60% of your ginal grade.
+
+--- Review 24 ---
+Class: CS180 | Date: 2025-02-12 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Super heavy on exams, be prepared for it. It takes 40% for midterms and 20% for final. Also they are hardly based on definitions rather than the code itself.
+
+--- Review 25 ---
+Class: CS180 | Date: 2025-02-12 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Be ready to do a lot or review for this class because his midterms contains 25 short answers and you gotta do six of them. Tests are in person hand written and hardly based on definitions. You can drop one, but the rest still take 20% of final grade. The final exam will take  20%. Super heavy on exams. Gotta go berserk if you want to codo
+
+--- Review 26 ---
+Class: CS242 | Date: 2024-12-14 | Quality: 2/5 | Difficulty: 4/5
+Comment: This is such a poorly organized class. Some questions on Ed just straight up never get answered, it's nearly impossible to actually get help in this class. TA's often are not helpful abo
+
+--- Review 27 ---
+Class: CS180 | Date: 2024-08-23 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A+
+Tags: Amazing lectures , Respected
+Comment: Prof. Bergstrom He is the best professor I have ever had. A solid lecturer and a seasoned software engineer, he brings valuable industry experience to his teaching.
+
+--- Review 28 ---
+Class: CS180 | Date: 2024-03-18 | Quality: 1/5 | Difficulty: 5/5 | Grade: A+
+Tags: Lots of homework, Beware of pop quizzes, Lecture heavy
+Comment: Not only this man requires mandatory attendance, but he mumbles at every lecture possible. At the beginning of the semester, everyone was asking to turn his volume up, but that didn't help with his mumbling. He is really hard to understand and you have to teach yourself most of the time.
+
+--- Review 29 ---
+Class: CS242 | Date: 2023-12-29 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Comment: Solid lecturer. This class covers a lot of content, and he did a good job getting through it all. He did some "experimental" course policies, which were amazing, as they made HW deadlines and grading super lenient. Some of the labs were weirdly way harder than the rest, but that's a nitpick. Overall, solid prof. Minimal curve, but easy exams.
+
+--- Review 30 ---
+Class: CS242 | Date: 2023-12-26 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: EXTRA CREDIT, Caring, Accessible outside class
+Comment: had him for cs 242 fall '23. he had completely revised the syllabus and was very lenient with deadlines for labs and projects. it was clear that he wanted everyone to have a good understanding of the content. homework was definitely harder than what was taught in class / slides but overall i had a good time with him.
+
+--- Review 31 ---
+Class: CS180 | Date: 2023-09-21 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Comment: I had some coding experience before taking CS 180. For me, Tony is a pretty interesting person. His slides are pretty good.
+
+--- Review 32 ---
+Class: CS180 | Date: 2023-05-10 | Quality: 3/5 | Difficulty: 3/5 | Grade: A
+Tags: Tough grader, Group projects, Lots of homework
+Comment: Assuming you have prior experience, this is not too bad of a course. If you do not, you must be prepared to pay attention and study new material in advance or you will fall behind. There is a lot of homework, and group projects at the end of the semester that are worth a significant portion of your grade. Lectures can be boring and repetitive.
+
+--- Review 33 ---
+Class: CS242 | Date: 2022-12-15 | Quality: 2/5 | Difficulty: 5/5
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Everything has been poorly conducted. Projects and labs were worded poorly, and no rubric was given. I love the contents and him as a person, but his teaching skills and how the class is organized are the worst.
+
+--- Review 34 ---
+Class: CS242 | Date: 2022-12-11 | Quality: 3/5 | Difficulty: 1/5
+Tags: Lots of homework
+Comment: The professor is not too bad. He gives a good lecture. The problem is that his homework or labs are way more advanced than what he teaches. Also, the instructions for the homework and labs are very often misleading and poorly organized. I had to submit regarding request very often to prove I have done nothing wrong.
+
+--- Review 35 ---
+Class: CS242 | Date: 2021-12-20 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A-
+Tags: Lots of homework, Accessible outside class, Clear grading criteria
+Comment: Class is a lot of projects and homeworks and such, but it really isn't that bad. The concepts grappled in the class aren't too terribly difficult and the slides are really useful. Lectures could definitely be more slide related, but overall I feel like I learned a lot.
+
+--- Review 36 ---
+Class: CS242 | Date: 2021-12-11 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes
+Comment: Although there aren't a TON of assignments (5 HW's and 3 projects + weekly labs) each one is very long and takes effort. Assignments as often worded weirdly, not super easy to understand. However, they're very useful cuz they force you to learn the material. The lectures are a little dry and essentially useless, but the slides provide good examples
+
+--- Review 37 ---
+Class: CS242 | Date: 2021-12-08 | Quality: 1/5 | Difficulty: 4/5 | Would take again: No | Grade: A-
+Tags: Lots of homework
+Comment: This will likely be the worst class I ever take. The professor makes no attempt to tie lectures to homeworks, projects &amp; labs, assignments are unreasonable and thoughtless at best. You have to teach yourself everything. The TAs were unprofessional and unhelpful. Lengthy assignments &amp; new material given during dead week. Only hope is a new professor
+
+--- Review 38 ---
+Class: CS242 | Date: 2021-12-04 | Quality: 1/5 | Difficulty: 3/5 | Would take again: No | Grade: A
+Tags: Lots of homework, Test heavy, Tough grader
+Comment: Does not respond to emails if you have an issue and doesn't address issues with TAs. Assigns work and lab during dead week on top of learning new material and doesn't provide even a list of topics to study for the final. The entire course was poorly organized and incredibly frustrating to take. You'll have to teach yourself pretty much everything.
+
+--- Review 39 ---
+Class: CS242 | Date: 2021-03-07 | Quality: 1/5 | Difficulty: 3/5 | Would take again: No | Grade: Rather not say
+Comment: This professor is not good. The material in the class is not too bad, but the lectures are not helpful for the assignments. There is a lot of self studying. Besides lecturing the professor does not reply to emails. The midterm was terrible, it did not test our knowledge of the material, it was just about random data science facts.
+
+--- Review 40 ---
+Class: CS242 | Date: 2020-12-18 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A- | Online class: Yes
+Tags: Accessible outside class, Caring
+Comment: Even though the class consists of homework, lab, discussion (online participation), and projects, the class honestly was not that much work. The lectures were a great foundation for applying concepts to labs and hw. Projects did take a good amount of time to complete. Overall, I learned a lot of new concepts.
+
+--- Review 41 ---
+Class: CS242 | Date: 2020-12-14 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No | Online class: Yes
+Tags: Lots of homework, Test heavy, Tough grader
+Comment: There is at least 1 assignment every week, because of the labs. The labs are pretty simple. The homework assignments and projects are extremely challenging. Anything that the instructors or TAs provide is practically useless, and the lab doesn't prepare you either. TAs are never at office hours, and don't respond for days on Piazza. Expect no help.
+
+--- Review 42 ---
+Class: CS242 | Date: 2020-12-14 | Quality: 1/5 | Difficulty: 4/5 | Would take again: No | Online class: Yes
+Tags: Test heavy, Tough grader
+Comment: The lectures were not helpful for the homeworks and projects at all. A lot of the assignments had to be self-learnt and so it took way too long to complete anything. The exams are long and lots of short answers, and he takes off lots of points for the exams.
+
+--- Review 43 ---
+Class: CS242 | Date: 2020-12-06 | Quality: 2/5 | Difficulty: 5/5 | Would take again: No
+Tags: Hilarious
+Comment: The class itself was hilarious. The lectures didn't help at all, and the slides were clearly only prep for the single Midterm and Final. The final project and a few of the homework assignments were ridiculous. None of the material covered in the hw and projects are taught in lectures. TAs literally never respond on Piazza and skip their office hrs.
+
+--- Review 44 ---
+Class: CS180 | Date: 2020-05-09 | Quality: 3/5 | Difficulty: 2/5 | Would take again: No | Grade: A
+Comment: Overall not a bad professor. The class was very tedious and repetitive at certain times. Lectures were usually boring and did not help extensively. The labs and homework teach a lot more information.
+
+--- Review 45 ---
+Class: CS180 | Date: 2020-01-17 | Quality: 2/5 | Difficulty: 3/5 | Would take again: No | Grade: A
+Tags: Lots of homework, Accessible outside class, Clear grading criteria
+Comment: The class is easy if you have prior experience. But on all the new material, bergstrom is not where I learned it. Also attendance above 80 gets you full credit, but since its not worth a lot its not completely necessary.
+
+--- Review 46 ---
+Class: CS242 | Date: 2019-12-18 | Quality: 3/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A+
+Tags: Lots of homework
+Comment: Average class. Average professor. His lectures were good enough and he posted boilercast and all slides. The class was more focused on the projects, which were sometimes cool and sometimes just tedious. Generally, the topics for the class were all over the place and changed directions each week. You'll pick up a few useful things along the way.
+
+--- Review 47 ---
+Class: CS180 | Date: 2019-12-18 | Quality: 3/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Lecture heavy
+Comment: 180 is not a hard class if you've had prior experience. Otherwise, this class can be a potential nightmare. Bergstrom taught the Black section, so most people knew a lot going in. The lectures could be boring and sometimes felt hard to understand until you did the lab/hw. Overall, he was a nice guy, but I'm didn't feel he was an exceptional teacher
+
+--- Review 48 ---
+Class: CS242 | Date: 2019-12-17 | Quality: 3/5 | Difficulty: 3/5 | Would take again: No | Grade: A
+Comment: This was Bergstrom's first year of teaching and it shows. Most of his lectures were pretty boring as he just read of the slides. He never explored the concepts in depth. However, I really liked the way the class was structured. The labs and projects were very useful at learning the material. The tests were fair for the most part.
+
+--- Review 49 ---
+Class: CS242 | Date: 2019-11-25 | Quality: 1/5 | Difficulty: 3/5 | Would take again: No | Grade: A-
+Tags: Get ready to read
+Comment: Should not be a data science professor. He cannot explain the requisite concepts in a comprehensive or intuitive way. The only way to get by in this class is a WHOLE LOT of Google.
+
+--- Review 50 ---
+Class: CS180 | Date: 2019-11-20 | Quality: 3/5 | Difficulty: 2/5 | Would take again: Yes
+Tags: Accessible outside class, Lecture heavy
+Comment: Pretty good at explaining concepts in lecture. Homework is a bit finicky on some test cases and the coding style for homework can be occasionally irritating. Definitely available outside lecture with office hours and lunch. While attendance is required, the policy is loose so don't worry about getting sick or whatever.
+
+--- Review 51 ---
+Class: CS180 | Date: 2019-10-17 | Quality: 4/5 | Difficulty: 3/5 | Would take again: No | Grade: A+
+Tags: Respected, Accessible outside class
+Comment: The attendance policy is annoying because he MAKES you come to class because of the iClicker questions. But you do only have to maintain an 80% attendance, which means you can miss about 10-12 lectures and still be okay. The course does get tricky in the middle so beware. But don't worry about it because office hours are super accessible.

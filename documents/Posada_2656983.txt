@@ -1,0 +1,520 @@
+Professor: Andres Posada
+Department: Computer Science
+School: Purdue University - West Lafayette
+Course (from planning.md): CS 251
+Overall quality: 3.2/5
+Average difficulty: 3.8/5
+Would take again: 55.8824%
+Total ratings: 101
+Source: https://www.ratemyprofessors.com/professor/2656983
+
+============================================================
+--- Review 1 ---
+Class: CS25100 | Date: 2026-05-25 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Tough grader, Amazing lectures , Hilarious
+Comment: Prof. Bejarano is an amazing 251 lecturer who communicates very well and uses great examples. I think his class is conceptual but helps a lot for the real world. Only downside is the tests aren't always a great reflection of our knowledge. That said, he's pretty fair overall and despite no required attendance, lectures are quite full. Great prof
+
+--- Review 2 ---
+Class: CS177 | Date: 2026-05-10 | Quality: 2/5 | Difficulty: 3/5 | Grade: B+
+Tags: Tough grader, Group projects, Lecture heavy
+Comment: For CS176. He's smart and has a good sense of humor. But most of the time the lectures aren't that engaging. The notes/online resources weren't managed well, the labs weren't that useful either.
+
+--- Review 3 ---
+Class: CS251 | Date: 2026-04-28 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Comment: his lectures are optional but they're amazing, i was able to easily follow along with what was happening. it's the only optional class i actually go to.
+
+--- Review 4 ---
+Class: CS251 | Date: 2026-04-24 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Amazing lectures , Clear grading criteria
+Comment: Provides a exam format that reinforces learning (10 checkpoints instead of 2 midterms). Writes clear to follow and interesting notes in class, and is sociable. Projects can be a bit confusing, but seems to be a consequence of the course, not the professor.
+
+--- Review 5 ---
+Class: CS251 | Date: 2026-04-16 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Hilarious, Caring, Test heavy
+Comment: Professor Bejarano made CS25100 engaging with humor and care. He simplifies complex DSA topics while offering invaluable career advice for the real world. More than a teacher, he is a mentor who fosters open discussion and genuinely invests in student success. His support and expertise make him an exceptional, must-take instructor.
+
+--- Review 6 ---
+Class: CS251 | Date: 2026-04-08 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Lots of homework, Hilarious
+Comment: Great communicator and teacher, very funny. Very demanding of students but for a tough class, it means we are up to date on the material. Cares enough to answer questions patiently and brings complicated ideas like data structures to life with well explained diagrams. The subject material is by nature difficult but he makes the most of it.
+
+--- Review 7 ---
+Class: CS251 | Date: 2026-01-25 | Quality: 1/5 | Difficulty: 4/5 | Grade: Rather not say
+Tags: Get ready to read, Test heavy
+Comment: Very test heavy. While taking the class, it felt like I was only studying for 251. 
+Prof. tries real hard to be funny, but is not. Lecture notes are exacerbated by poor handwriting. 
+Minimal effort given in class, but expects students to ace in biweekly checkpoints. 
+Save yourself, take the class with some other Prof.
+
+--- Review 8 ---
+Class: CS25100 | Date: 2026-01-23 | Quality: 1/5 | Difficulty: 1/5 | Grade: Rather not say
+Tags: Tough grader, Get ready to read, Participation matters
+Comment: Any single question you ask in ed or in real life, he responds with it's &#8220;in the syllabus&#8221;
+
+--- Review 9 ---
+Class: CS251 | Date: 2026-01-07 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Tags: Lots of homework, Lecture heavy, Test heavy
+Comment: Prof. Bejerano is good at explaining concepts, but the lecture style involves handwritten notes that can be difficult to follow. The exams are challenging and test very specific details. Because the short, in-class exams are weighted heavily, there is little room for error. The homeworks are long but have low impact on the overall grade.
+
+--- Review 10 ---
+Class: CS251 | Date: 2025-12-20 | Quality: 1/5 | Difficulty: 5/5 | Grade: C
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: He definitely knew his stuff, but he just sucked at explaining things. The classes did not have any slides, and did not follow a textbook, so keeping up outside of the lectures was difficult. On top of that, lectures felt like they don't slowly build your knowledge, but instead just throw material at you. Finally, the "notes" were just unreadable.
+
+--- Review 11 ---
+Class: CS251 | Date: 2025-09-08 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A+
+Tags: Amazing lectures , Caring, Test heavy
+Comment: Easily one of my favorite CS professors I've had the fortune of learning from in my time here. He is clearly well versed not only in the material, but also how to appropriately teach it. Some of the best paced and digestible lectures I've ever attended. I think he's witty,charming, and clearly cares about his students. Can't recommend him enough!
+
+--- Review 12 ---
+Class: CS251 | Date: 2025-09-06 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: A very good professor, explained everything clearly and also had some funny jokes. Sarcastic in brightspace, and in a cool way. Tests were difficult, but fair. He set a decently big curve for the class.
+
+--- Review 13 ---
+Class: CS251 | Date: 2025-07-28 | Quality: 2/5 | Difficulty: 4/5 | Grade: A
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: I wish I delayed taking this class with another professor; the checkpoints- which are nearly 50% of your grade don't correspond to h.w's or what was necessarily taught in class - didn't cover material in lecture? Good luck, it might show up on your exam the next day, all the while trying to juggle a ton of other assignments.
+
+--- Review 14 ---
+Class: CS251 | Date: 2025-07-23 | Quality: 1/5 | Difficulty: 5/5
+Tags: Test heavy
+Comment: Lots of tests that are weighted relatively heavily with a lot of busy work that amounts to nearly nothing.
+
+--- Review 15 ---
+Class: CS251 | Date: 2025-05-14 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B+
+Tags: Amazing lectures , Lecture heavy, Test heavy
+Comment: Some of the best lectures I have ever attended.
+Class is heavily skewed toward tests.
+Tests are difficult but they are fairly graded.
+
+--- Review 16 ---
+Class: CS251 | Date: 2025-03-12 | Quality: 3/5 | Difficulty: 4/5 | Grade: A
+Tags: Tough grader, Accessible outside class, Online Savvy
+Comment: Felt that lectures were kinda boring but at least were informative. TAs were usually very harsh and grading things wrong. Had to submit many regrade requests to argue my points.
+
+--- Review 17 ---
+Class: CS251 | Date: 2025-02-27 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Comment: If you're going to take 251, try to do it with him. He's one of the most competent lecturers in the department and teaches the content really well. Homeworks and projects are tough, so make sure to reach out to TAs.
+
+--- Review 18 ---
+Class: CS251 | Date: 2025-01-19 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Tags: Amazing lectures , Lecture heavy, Test heavy
+Comment: By far the best lecturer I have ever had. He writes down essential information and elaborates on it during lectures. I think the clearest way to tell he was great was the fact that attendance wasn't required but the lecture was always packed. My only problem is that the TAs were pretty useless and gave wrong information sometimes.
+
+--- Review 19 ---
+Class: CS251 | Date: 2025-01-17 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A-
+Tags: Amazing lectures , Lecture heavy
+Comment: GOAT lecturer and fair grading.
+
+--- Review 20 ---
+Class: CS251 | Date: 2025-01-14 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Tags: Tough grader, Amazing lectures , Test heavy
+Comment: Definitely go to all lectures and take notes. Posada is an AMAZING lecturer and really makes otherwise difficult concepts easy to understand. Midterms and the final are worth most of your grade, so be sure to study ahead of time. Also complete the projects, they will boost your understanding of concepts even through they are hard.
+
+--- Review 21 ---
+Class: CS251 | Date: 2024-12-17 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Tags: Amazing lectures
+Comment: Very good lecturer. Class was not too hard, homeworks and projects were doable if you started early.
+
+--- Review 22 ---
+Class: CS251 | Date: 2024-12-14 | Quality: 3/5 | Difficulty: 2/5 | Would take again: Yes | Grade: B+
+Tags: Test heavy
+Comment: lectures are good but he usually explains easy examples while the homeworks and quizzes have more complicated ones, important information like test format was not provided and feedback on midterms was not very accessible as well. However, the class is not too hard overall.
+
+--- Review 23 ---
+Class: CS251 | Date: 2024-12-14 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: B
+Tags: Amazing lectures , Hilarious, Caring
+Comment: One of my favorite CS professors I've had at Purdue, his lectures were extremely helpful. Not mandatory, but I highly recommend going to them, they're pretty easy to follow and take notes on. Lots of examples so that we can see the concepts in practice. The content is definitely hard, the projects took a while, and there were 3 midterms.
+
+--- Review 24 ---
+Class: CS25100 | Date: 2024-12-13 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Tags: Lots of homework, Test heavy
+Comment: Very hard class with a lot of workload but the professor was quite easily the best CS professor I have had at Purdue. The lectures are optional but he does an amazing job of explaining every concept and makes them very interesting.
+
+--- Review 25 ---
+Class: CS251 | Date: 2024-12-11 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B
+Tags: Amazing lectures
+Comment: My favorite CS professor by far. His lectures are amazing and he clearly explains the difficult concpets well. His exams and projects can be difficult, but far from unreasonable.
+
+--- Review 26 ---
+Class: CS251 | Date: 2024-12-05 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Amazing lectures , Lots of homework, Respected
+Comment: One of the best lecturers at Purdue: he cares a lot about our learning and will go at good pace where we can take notes AND understand what is going on. Homework/projects are a lot of work, but they are very fair and TAs can help. Midterms/Finals were all MCQs so it isn't hard to do well (C/B) but it can be quite hard to get an A/A- as no curve.
+
+--- Review 27 ---
+Class: CS251 | Date: 2024-12-03 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Amazing lectures , Test heavy
+Comment: He is my favorite CS professor I have had so far. His lectures were actually worth attending and helped me understand what we were working on. The homeworks were tough but we had plenty of time to complete them. The projects could take some time but connected well with what we worked on.
+
+--- Review 28 ---
+Class: CS251 | Date: 2024-10-31 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: Incomplete
+Tags: Amazing lectures , Lots of homework, Accessible outside class
+Comment: Genuinely the greatest pure lecturer I've had thus far. He is entertaining and explains everything incredibly succinctly. His office hours are helpful and he cares about his students. The only problems I had were the course organization and the exam structure.
+
+--- Review 29 ---
+Class: CS251 | Date: 2024-10-08 | Quality: 5/5 | Difficulty: 1/5 | Would take again: Yes | Grade: A+
+Tags: Tough grader, Amazing lectures , Hilarious
+Comment: His lectures are probably the most engaging I've seen so far. He's also able to explain most course content well, and it made the class much easier to experience.
+
+--- Review 30 ---
+Class: CS251 | Date: 2024-08-26 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader
+Comment: Worst professor ever terrible accent and doesn't help students. Thinks he is superior
+
+--- Review 31 ---
+Class: CS251 | Date: 2024-08-17 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Amazing lectures , Respected
+Comment: Posada is a very good professor. lectures engaging, projects challenging, exams very hard, but nice curve in the end.
+
+--- Review 32 ---
+Class: CS251 | Date: 2024-05-03 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Test heavy
+Comment: Difficult class, but learned a lot. Gave good lectures.
+
+--- Review 33 ---
+Class: CS251 | Date: 2024-05-02 | Quality: 2/5 | Difficulty: 3/5 | Grade: A
+Comment: Pros: Challenging exam & homework questions that helped me a lot in programming. Hard but reasonable.
+
+Cons: Very unorganized course. Changes the format of the final exam dramatically and announces it 12hours before the exam. Not on the same page with the TA's. Annoying schedules throughout the semester.
+
+--- Review 34 ---
+Class: CS251 | Date: 2024-03-09 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Tough grader, Amazing lectures
+Comment: My favorite CS Professor. He is smart, funny, and give hard exams.
+
+--- Review 35 ---
+Class: CS25100 | Date: 2024-02-03 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: The lecture was jotting down a bunch of notes and referring to slides if something was "too long to write down". Slides are never shown during lecture, gotta go read them on your own.
+
+Awful tests. Doable difficulty but too much content for given time. You won't be able to read all the questions, let alone think about and solve them. All write-ins.
+
+--- Review 36 ---
+Class: CS25100 | Date: 2023-12-12 | Quality: 3/5 | Difficulty: 3/5
+Tags: Tough grader
+Comment: He's a funny guy, good lecturer, but wasn't on the same page with his TAs at times. He would have loud conversations with TAs during exams, unconcerned with how it could be distracting to students.
+
+--- Review 37 ---
+Class: CS177 | Date: 2023-12-11 | Quality: 2/5 | Difficulty: 4/5 | Grade: C+
+Comment: Doesn't answer technical questions in class. Doesn't answer coding questions during office hours. Dissuades you from looking at past exams, since he has them completely unordered in a folder in his office. Being funny is about all the credit I can give him.
+
+--- Review 38 ---
+Class: CS177 | Date: 2023-12-05 | Quality: 2/5 | Difficulty: 3/5 | Grade: A-
+Comment: not a huge fan of this professor, talks kinda sarcaticaly
+
+--- Review 39 ---
+Class: CS251 | Date: 2023-07-28 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Tags: Tough grader, Graded by few things
+Comment: Graders are passive and give equivocal responses for exams and homework. Projects only have limited tests, so even though you passed all tests efficiently, you could lose all points on the test (no partial credits). Hopes curve can make everyone feel better.
+
+--- Review 40 ---
+Class: CS251 | Date: 2023-07-27 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Amazing lectures , Hilarious, Caring
+Comment: Professor Bejarano is one of my favorite CS professors here at Purdue. His lecture style is good and engaging. It's definitely worth coming to his lectures in my opinion. I've taken two courses with him at Purdue (summer CS 182 and summer CS 251), and both have been great.
+
+--- Review 41 ---
+Class: CS177 | Date: 2023-05-03 | Quality: 3/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Tags: Lots of homework, Lecture heavy
+Comment: He posts good notes online, so even though he didn't record lectures, it was still possible to learn stuff without using the textbook. He seemed to be exasperated by questions during lecture and was sometimes dismissive of questions. The directions for labs, prelabs, and projects toward the end got less specific and sometimes were just plain wrong.
+
+--- Review 42 ---
+Class: CS251 | Date: 2023-04-25 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B
+Tags: Tough grader, Hilarious, Lecture heavy
+Comment: One of the best teachers in the department. He's not afraid to move at the rate the class needs, lectures keep your attention, and they're almost always helpful. He's got a sense of humor and isn't scared to make a fool of himself.
+
+--- Review 43 ---
+Class: CS25100 | Date: 2023-02-24 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: B+ | Online class: Yes
+Tags: Amazing lectures , Clear grading criteria, Hilarious
+Comment: Best lectures in the CS department. Was constantly cracking jokes that would make the whole class laugh, while also giving the best and most straight-forward lectures ever. If you paid attention, it was very easy to know what to do on the midterms. Projects were tough but doable. Overall, best professor I've had at Purdue.
+
+--- Review 44 ---
+Class: CS25100 | Date: 2023-01-10 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: As a Spring CS 251 taker, it's responsible to give him 1 star right now.
+
+Don't ask me why. THINK MORE!
+
+--- Review 45 ---
+Class: CS251 | Date: 2023-01-09 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A+
+Tags: Amazing lectures , Beware of pop quizzes, Lecture heavy
+Comment: His lectures have been the most interesting so far, as he is knowledgeable in what he is teaching and he explains them very clearly. Though he may have to sacrifice certain topics for the sake of time, he makes it up by explaining more difficult concepts much more clearly and making sure that no one falls behind on content.
+
+--- Review 46 ---
+Class: CS251 | Date: 2022-12-23 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A+
+Tags: Amazing lectures , Beware of pop quizzes, Respected
+Comment: Probably the best CS class I've taken at Purdue so far. Bejarano knows his stuff and explains it really well. His lectures are thorough and if you pay attention you'll definitely learn a lot about data structures & algorithms. A lot of his 1 ratings were cuz of one semester he had to make the class really hard cuz the department pressured him to.
+
+--- Review 47 ---
+Class: CS251 | Date: 2022-12-22 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Clear grading criteria, Caring
+Comment: He's pretty thorough when explaining concepts, and is always willing to reexplain something if need be in or out of class. The office hours, both his own and TA, are very helpful, and all projects and homework are manageable if you start early. The weekly quizzes aren't hard, but still not the most enjoyable thing to have to worry about.
+
+--- Review 48 ---
+Class: CS251 | Date: 2022-12-21 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: C
+Tags: Amazing lectures , Beware of pop quizzes, Accessible outside class
+Comment: Definitely attend lecture since he randomly gives 1 quiz a week which contributes towards participation. His lectures are great, but personally I used JB's slides for the same content. Start the projects early and they should be an easy A (definitely go to office hrs for them). Homework is straight forward and really good practice for the exams.
+
+--- Review 49 ---
+Class: CS251 | Date: 2022-12-19 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Hilarious
+Comment: Course had a pretty good structure. The lectures were entertaining and kept me engaged. The homework sometimes felt tedious, but it was always pretty fair. The exams I would say are very fair, and very well reflect your understanding of the material. The projects were fine if you start on time and seek help if needed. Great course!
+
+--- Review 50 ---
+Class: CS251 | Date: 2022-12-16 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Caring, Accessible outside class
+Comment: Prof. Bejarano was an amazing lecturer. He didn't just read off of the slides, he wrote down the rundown of the algorithm and made sure that students understood the topics. This resulted in skipping a few topics, but I think it is better this way. Reasonably tough projects and exams, but not impossible if you put effort. He's nice in office hour
+
+--- Review 51 ---
+Class: CS251 | Date: 2022-12-16 | Quality: 5/5 | Difficulty: 1/5 | Would take again: Yes | Grade: A+
+Tags: Participation matters, Amazing lectures , Accessible outside class
+Comment: Amazing Professor. Exams were all doable. I got 100s on two midterms. Homework grading is great. Very easy class overall. Office hours are helpful to get help on homework and concepts. Final was worth the same as the midterms and did not have a super big impact on the grade, so the grading was well distributed.
+
+--- Review 52 ---
+Class: CS251 | Date: 2022-12-12 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Tags: Amazing lectures , Inspirational
+Comment: CS251 Fall 2022 was a reasonably difficult class made easier by the fact that Posada is a great guy and a really good lecturer. The main weaknesses of the class is poor project design, but I heard that Posada was asked to make the class a lot easier and it shows. The midterms are very doable if you put in the time required. Little-no curve.
+
+--- Review 53 ---
+Class: CS251 | Date: 2022-10-14 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Get ready to read, Beware of pop quizzes
+Comment: Horrible lecturer. So much material in so little time with no explanation of how to actually implement it. Took forever to grade homework and took points off if you asked for a regrade. Does not want to answer questions and just tells you to google it.
+
+--- Review 54 ---
+Class: CS251 | Date: 2022-06-18 | Quality: 4/5 | Difficulty: 5/5 | Would take again: Yes | Grade: B+
+Tags: Tough grader, Amazing lectures
+Comment: Difficulty of exams needs to be adjusted, but lectures were top tier.
+
+--- Review 55 ---
+Class: CS251 | Date: 2022-05-11 | Quality: 2/5 | Difficulty: 4/5 | Grade: C+
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: The midterms were extremely difficult. Projects had very few test cases and were oftentimes 10 times more difficult to implement when compared to what we were taught.
+
+--- Review 56 ---
+Class: CS251 | Date: 2022-05-10 | Quality: 1/5 | Difficulty: 4/5 | Grade: B+
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: TA is all TrAsh, none of them answer students' questions, also UNFAIR test, way too long to be finished in the given time.
+
+--- Review 57 ---
+Class: CS251 | Date: 2022-05-07 | Quality: 1/5 | Difficulty: 5/5 | Grade: B+
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: first exam as impossible to finish. Second exam as extremely tough grading. If one problem has 10 steps til correct, I got 2 last steps wrong and got 2/10 points. The test cases given for coding projects are put all in one. only if you pass all test, full scores. But if you you pass 9/10 testcases and get 0 points. No grades for any correct thing
+
+--- Review 58 ---
+Class: CS251 | Date: 2022-05-07 | Quality: 1/5 | Difficulty: 5/5 | Grade: A-
+Tags: Tough grader, Participation matters, Clear grading criteria
+Comment: Nope
+
+--- Review 59 ---
+Class: CS251 | Date: 2022-05-07 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Tags: Tough grader, Test heavy
+Comment: THANK YOU POSADA AND YOUR TA
+
+--- Review 60 ---
+Class: CS251 | Date: 2022-05-07 | Quality: 1/5 | Difficulty: 3/5 | Grade: B
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Just don't take his class. I don't think his TAs can pass this class if they take it again.
+
+--- Review 61 ---
+Class: CS251 | Date: 2022-05-07 | Quality: 1/5 | Difficulty: 3/5 | Grade: B
+Tags: Tough grader
+Comment: TA is not helpful and has slow replies on the campuswire, even if they reply to the post, the answer sometimes is unhelpful or wrong. The professor curves the class differently, he literally lowers the standard of C a lot and only a little curve is given to A and B(got 83 pre-curve and left with a B). 25 free response questions in 1st exam.
+
+--- Review 62 ---
+Class: CS251 | Date: 2022-05-07 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Inspirational, Hilarious
+Comment: He is a great lecturer, as well as a professor who actually cared about his students. We had a much more difficult course compare to previous one, but his wonderful lectures and sense of humor during lectures really lightened things up. Also, after exams, he would consider the actual difficulty and made reasonable decisions to help his students.
+
+--- Review 63 ---
+Class: CS251 | Date: 2022-05-06 | Quality: 1/5 | Difficulty: 5/5 | Grade: B+
+Tags: Tough grader, Test heavy
+Comment: He explains things well but the course management is awful. The first midterm has 20+ pages of FRQ in 60 min. Projects were not that hard but the handouts created lots of confusion which made them harder than supposed to. TAs were not responding on Campuswire. A question can be left unanswered for a week until someone else in the class answer it.
+
+--- Review 64 ---
+Class: CS251 | Date: 2022-05-06 | Quality: 3/5 | Difficulty: 4/5 | Grade: C+
+Tags: Tough grader, Test heavy, Graded by few things
+Comment: Posada is a great lecturer, but the instructional team for this course is an absolute mess. TAs were unable to solve HW/exam problems and were unhelpful most the course. 1st exam was 25 Qs (some with multiple parts) within 60 minutes. Second exam was manageable (12 Qs) but still took up to 60 mins. Partial credit barely exists in this class.
+
+--- Review 65 ---
+Class: CS251 | Date: 2022-05-01 | Quality: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal
+Tags: Lecture heavy, Test heavy, Graded by few things
+Comment: If you see this, don't take this course. You can see the past ratings for posada. They are horrible. I don't want you do deal with the stress of his course. It is not worth it.
+
+--- Review 66 ---
+Class: CS25100 | Date: 2022-05-01 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Lecture heavy, Graded by few things
+Comment: Going to his office hours are useless. He will just justify what he is doing to make us fail with weird reasons. He always talks about how we need to know stuff for the industry. I don't know if he really knows the industry, he had one internship lol. When I told him that I was struggling on the homework, he told me to try harder.
+
+--- Review 67 ---
+Class: CS251 | Date: 2022-05-01 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Test heavy
+Comment: Andres created the tests so that no one can finish them. The first midterm was way too long and he still justified it by mentioning that we covered so many topics that he has to put on exams. In other classes professors were able to test on more subjects than on the midterm in this class and everyone was able to finish. He shouldn't be a professor.
+
+--- Review 68 ---
+Class: CS251 | Date: 2022-05-01 | Quality: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Lectures are alright but not great, this class does not prepare you for technical interview. The homework is not related to the slides. The TAs are incompetent, many TAs told me the wrong information for homework. The projects are not helpful for our careers. The tests are ridiculous. The first midterm was 35 FRQ with one hour to finish.
+
+--- Review 69 ---
+Class: CS251 | Date: 2022-04-29 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Great lectures, however projects are poorly written along with the fact that TAs don't do code checks or frequently cancel or move their office hours. Also, the projects do not provide enough context in order to write even if started the day it is released. Vocareum is used to submit however hidden test cases are used so you cannot debug with them.
+
+--- Review 70 ---
+Class: CS251 | Date: 2022-04-27 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader
+Comment: CS 251 for the spring semester 2022 has been a trainwreck. Midterm averages in the 50s and the professor continues to say "do not expect a curve", despite just under half the class failing.
+
+--- Review 71 ---
+Class: CS251 | Date: 2022-04-22 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Unfair test (test 1:60 mins for 25 FRQ, not post soln. TAs are supposed to explain 25 questions in 50 mins, if he/she can't finish, no one cares and there is no way to regrade cuz no one know the correct answer; test 2: both avg & median are 55 w/ 10 points given). Project w/ crazy start codes and each takes about 40 hrs to finish. no curve & extra
+
+--- Review 72 ---
+Class: CS251 | Date: 2022-04-20 | Quality: 2/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Participation matters, Lots of homework, Lecture heavy
+Comment: I wish I could have taken this class a different semester. Changed exam format for some reason and averages were low. TAs were awful and by extension so were exams, homeworks, Office Hours, grade times, etc. Posada is a nice person and good lecturer but didn't run the class well. Odd emphasis on midterms, quiz schedule was weird.
+
+--- Review 73 ---
+Class: CS251 | Date: 2022-04-20 | Quality: 1/5 | Difficulty: 5/5 | Grade: C-
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Midterm 1 tis 60 mins for 25 FRQ, which has 22 pages, and no post soln. TAs can't explain 25 questions in 50 mins cuz no one know the correct answer; Midterm 2: both avg & median are 55 w/ 10 points given). Project is crazy start codes and each takes about 40 hrs to finish. no curve and extra credit. This course is just so bad.
+
+--- Review 74 ---
+Class: CS25100 | Date: 2022-04-16 | Quality: 1/5 | Difficulty: 5/5 | Grade: B-
+Tags: Tough grader, Graded by few things
+Comment: Absolutely no excuse for running a class so poorly.
+
+--- Review 75 ---
+Class: CS251 | Date: 2022-04-15 | Quality: 1/5 | Difficulty: 5/5 | Grade: Incomplete
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Class is extremely exam heavy, almost no point in doing homework or long projects. Exams are not multiple choice, all of them need extremely long answers to get at least 70% grade of a single question. There are no extra credit opportunities. Grading is absurdly bad, if you don't provide a SINGLE STEP in the question you get 0.
+
+--- Review 76 ---
+Class: CS251 | Date: 2022-04-15 | Quality: 1/5 | Difficulty: 5/5
+Comment: dont take
+
+--- Review 77 ---
+Class: CS251 | Date: 2022-04-15 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Tags: Tough grader
+Comment: You r gonna fail
+
+--- Review 78 ---
+Class: CS251 | Date: 2022-04-15 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader
+Comment: This class is extremely difficult. The TA's are terrible and do not help with anything. Projects are extremely long and there is no extra credit or bonus. The exams are not multiple choice and are all short answers. The exams are extremely difficult with terrible grading and the class average will be around 50%. Be prepared to fail the class!
+
+--- Review 79 ---
+Class: CS25100 | Date: 2022-03-28 | Quality: 2/5 | Difficulty: 3/5 | Grade: Incomplete
+Tags: Tough grader, Amazing lectures
+Comment: lectures are great. test are not and his review sessions make everything seem easy but hen the tests are extremely difficult.
+
+--- Review 80 ---
+Class: CS251 | Date: 2022-03-25 | Quality: 1/5 | Difficulty: 5/5 | Grade: Rather not say
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: The course is poorly run, with homework taking up to 3 weeks to be returned. Previous semesters got to take multiple choice tests while this semester is purely short answer. This semester, there are no extra credit opportunities. I think that this course needs to have better policies that match the difficulty of the material. There is no curve.
+
+--- Review 81 ---
+Class: CS182 | Date: 2022-03-24 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Caring, Respected
+Comment: I took this class in the summer, and he gave us a lot of Extra Credit to help us out. Very fair grader with fair assignments and exams, and an awesome lecturer that actually cares. Overall, great guy.
+
+--- Review 82 ---
+Class: CS251 | Date: 2022-03-24 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Caring, Respected
+Comment: Amazing professor all around, who is willing to help if you actually talk to him. Was never unreasonable, and willing to admit mistakes and change things based on feedback from his few screwups. Engaging lecturer.
+
+--- Review 83 ---
+Class: CS25100 | Date: 2022-03-03 | Quality: 1/5 | Difficulty: 5/5
+Tags: Tough grader, Graded by few things
+Comment: The homework’s are graded very strictly. His lectures are useless and a waste of time. You can easily watch a 10 minute YouTube video to learn the same thing.
+
+--- Review 84 ---
+Class: CS251 | Date: 2021-12-10 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Clear grading criteria, Amazing lectures
+Comment: Just a really solid lecturer for CS251. I took it during summer and he made appropriate adjustments to the course structure.
+
+--- Review 85 ---
+Class: CS251 | Date: 2021-12-06 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, Caring
+Comment: Relates to the struggles of students and is reasonable; even gave a few &quot;mental health days&quot; without lectures throughout the semester. Class content is fairly tough, but he explains the topics well.
+
+--- Review 86 ---
+Class: CS251 | Date: 2021-12-06 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Respected, Amazing lectures, Caring
+Comment: Amazing professor all around. His lectures are interesting and fairly easy to follow. His slideshows are top tier, easy to take in with plenty of examples and plenty of visuals to assist with understanding. He cares a lot about his students and is very receptive to any questions or comments regarding the class. Overall, absolute king of a professor
+
+--- Review 87 ---
+Class: CS251 | Date: 2021-11-10 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Lots of homework, Inspirational, Amazing lectures
+Comment: Legendary Professor. Cares about all of his students. Exciting lectures, easy exams, sometimes difficult homework and projects but a prepared student should be able to handle with no problems.
+
+--- Review 88 ---
+Class: CS251 | Date: 2021-09-30 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, Graded by few things, Caring
+Comment: He actually cares about his students' mental health and is a good lecturer. Really cares about students learning the material in a meaningful way
+
+--- Review 89 ---
+Class: CS251 | Date: 2021-09-29 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Comment: Super interesting lectures and actually cares about students' mental health.
+
+--- Review 90 ---
+Class: CS251 | Date: 2021-09-29 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, Skip class? You won't pass., Caring
+Comment: says he cares about our mental health and proves it
+
+--- Review 91 ---
+Class: CS251 | Date: 2021-09-29 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Comment: When he actually cares about your mental health :)
+
+--- Review 92 ---
+Class: CS251 | Date: 2021-09-29 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Accessible outside class, Inspirational, Caring
+Comment: Super Awesome professor
+
+--- Review 93 ---
+Class: CS251 | Date: 2021-08-14 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Tags: Respected
+Comment: Solid lectures, blending slides and hand worked examples, thoroughly going through every step of an algorithm. He very intentionally does not have a curve, but he makes sure the scores are roughly reasonable. I highly recommend his office hours; I did not attend myself until the end of the semester.
+
+--- Review 94 ---
+Class: CS251 | Date: 2021-08-07 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A+
+Tags: Gives good feedback, Accessible outside class, EXTRA CREDIT
+Comment: Good lecturer and helpful Powerpoint. The reason I give a 4.0 difficulty is that I think algorithm is a difficult topic, especially understanding the mathematical proofs and mechanism behind the scene . However, this class is designed to get good grade easily.
+
+--- Review 95 ---
+Class: CS251 | Date: 2021-07-31 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Amazing lectures, EXTRA CREDIT
+Comment: Very good lecturer. He's very easy to understand and follow. There're homework and projects due every week (Summer class) but they're manageable as long as you start early. A lot of extra credit opportunities. Exams are easy enough and the practice materials he gives prepare you well for those.
+
+--- Review 96 ---
+Class: CS251 | Date: 2021-07-31 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Gives good feedback, EXTRA CREDIT
+Comment: I think he did a great job teaching the class. He was very clear and his lectures were easy to understand. The homework and projects were not bad as long as you start them on time. Don't expect to be able to do everything last minute. As long as you pace yourself and show up to class you can expect to learn a lot from Professor Posada.
+
+--- Review 97 ---
+Class: CS25100 | Date: 2021-07-31 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes
+Tags: Accessible outside class, Skip class? You won't pass., Amazing lectures
+Comment: Professor Bejarano is a great lecturer, and will take the time to answer students' questions in a thorough and complete manner. Attend class. The most difficult part about the midterms is the time limit, but if you attend class and do the assignments, they are entirely doable. There is no curve, but there are many opportunities for bonus points.
+
+--- Review 98 ---
+Class: CS251 | Date: 2021-05-11 | Quality: 2/5 | Difficulty: 4/5 | Would take again: Yes | Grade: C+ | Online class: Yes
+Comment: You'll get about how much effort you put in. He's a decent lecturer, but the grading was unfair this semester. Hard tests, no curve at all.
+
+--- Review 99 ---
+Class: CS251 | Date: 2021-03-09 | Quality: 1/5 | Difficulty: 5/5 | Would take again: No
+Tags: Test heavy, Tough grader
+Comment: Took &quot;feedback&quot; from last semester's class that he gave too many A's to and decided that this semester would be the opposite. Increased difficulty by giving 30 less time for the test than previous semester so the midterm average from an A last semester to a C- this semester. Lectures are awful and homework is tough + unrelated to bad lectures.
+
+--- Review 100 ---
+Class: CS25100 | Date: 2021-02-24 | Quality: 1/5 | Difficulty: 3/5 | Would take again: No | Online class: Yes
+Comment: just no
+
+--- Review 101 ---
+Class: CS251 | Date: 2020-12-23 | Quality: 2/5 | Difficulty: 4/5 | Would take again: No | Grade: A
+Comment: He did not actually teach the class, he just reused lectures from a summer course taught by someone else. He did a midterm and final review. Practically unresponsive on class forums for answering questions. Does not design projects thoroughly, many things have had to be updated. Seems knowledgeable, doesn't seem to care about the class. No curve.
+
+--- Review 102 ---
+Class: CS251 | Date: 2020-12-18 | Quality: 3/5 | Difficulty: 3/5 | Would take again: No | Grade: A
+Tags: Accessible outside class
+Comment: He made like 2 or 3 lectures the whole semester. The entire class content was a lecturer from a previous professor for this class. His communication skills weren't the best: his answers to questions were good, but not always in a timely fashion.

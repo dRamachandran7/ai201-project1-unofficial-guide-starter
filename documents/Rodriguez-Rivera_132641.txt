@@ -1,0 +1,673 @@
+Professor: Gustavo Rodriguez-Rivera
+Department: Computer Science
+School: Purdue University - West Lafayette
+Course (from planning.md): CS 252
+Overall quality: 4.4/5
+Average difficulty: 3.1/5
+Would take again: 91.3462%
+Total ratings: 138
+Source: https://www.ratemyprofessors.com/professor/132641
+
+============================================================
+--- Review 1 ---
+Class: CS252 | Date: 2026-05-01 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Tags: Lots of homework, Caring, Respected
+Comment: Prof. Gustavo is one of the best professors I've had. Lectures are great, and lab projects teach you a lot. Exams are fair, though my only critique is the many live corrections during the midterm. He's extremely knowledgeable about systems programming and genuinely wants his students to succeed. Highly recommend him for any class.
+
+--- Review 2 ---
+Class: CS252 | Date: 2026-05-01 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Lots of homework, Caring, Respected
+Comment: Prof. Gustavo is one of the best professors I've had. Lectures are great, and lab projects teach you a lot. Exams are fair, though my only critique is the many live corrections during our midterm. He's extremely knowledgeable about systems programming and genuinely wants his students to succeed. Highly recommend him for any class
+
+--- Review 3 ---
+Class: CS252 | Date: 2026-04-29 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Tags: EXTRA CREDIT, Amazing lectures , Clear grading criteria
+Comment: kind professor with homework and course content that actually makes sense
+
+--- Review 4 ---
+Class: CS252 | Date: 2026-04-15 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: Incomplete
+Tags: EXTRA CREDIT, Caring, Respected
+Comment: Makes this class extremely fun and engaging. The labs are very hands-on and I genuinely learn a lot from them. Lectures are good as well. Overall GOAT.
+
+--- Review 5 ---
+Class: CS252 | Date: 2026-04-14 | Quality: 1/5 | Difficulty: 4/5
+Comment: Borderline impossible to understand his lectures, and he rambles about topics. The exams are not based on your content knowledge but your knowledge of his specific labs.
+
+--- Review 6 ---
+Class: CS252 | Date: 2026-04-08 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: EXTRA CREDIT, Caring, Respected
+Comment: He absolutely cares the most for his students out of any professor. makes a boring subject like systems interesting and engaging, gives tons of extra credit opportunities and is generous with extensions on difficult projects, going as far as to give us the first 30 % of the project in class to get started. Cannot recommend him enough.
+
+--- Review 7 ---
+Class: CS252 | Date: 2026-03-10 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Tough grader, Participation matters, Test heavy
+Comment: Great professor, nearly gave the answer to all the projects during the lectures. Labs were good and TAs were helpful. He was also nice. I just wish he'd call out the people who talk during lecture more because it makes it hard to follow.
+
+--- Review 8 ---
+Class: CS252 | Date: 2026-01-07 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, Test heavy, Online Savvy
+Comment: Prof. Gustavo was a great lecturer. Lab grading criteria changed frequently, and grades were occasionally returned late. The online slides were comprehensive, though I noticed some formatting mistakes. I found the exams to be very difficult (avg, med < 50%), but the final was entirely MCQ. Participate in the lectures for bonus points.
+
+--- Review 9 ---
+Class: CS252 | Date: 2025-12-23 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B
+Tags: Lots of homework, Caring, Test heavy
+Comment: 252 is a lot of work with the projects. He extended some deadlines but it it is up to you to make good use of it. The last project is nice but it is glossed over. We had a tough midterm and a easy final. Expect to write the projects by hand for these exams. Treat the participation extra credit and the extra credit from the projects as the curve.
+
+--- Review 10 ---
+Class: CS252 | Date: 2025-08-06 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Amazing lectures , Caring, Respected
+Comment: Honestly one of the GOATs of Purdue. Super passionate, always willing to answer questions. Make sure to talk to him after class about anything that you find neat or exciting about the class. Class is SUPER project heavy however, so going to labs (and staying) is a must. He cares a lot about his students and will accommodate if asked.
+
+--- Review 11 ---
+Class: CS252 | Date: 2025-05-20 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A+
+Tags: Participation matters, EXTRA CREDIT
+Comment: Professor Gustavo gave students enough time to finish lab assignments and make sure most students actually learn from the lab. He also gave fair exams and many opportunities for extra credits. However, you may need to learn more on your own outside of the class if you want to gain a deeper understanding in the field (like OS).
+
+--- Review 12 ---
+Class: CS252 | Date: 2025-05-16 | Quality: 2/5 | Difficulty: 4/5 | Grade: A
+Comment: - Class is disorganized
+- Content is boring and surface-level
+- Exams require memorization of irrelevant trivia and implementation details
+- Grading has errors, or grades aren't inputted properly
+- Mandatory lecture and lab attendance
+- Doesn't hold regular office hours
+
+--- Review 13 ---
+Class: CS252 | Date: 2025-05-14 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A-
+Tags: Participation matters, EXTRA CREDIT, Graded by few things
+Comment: Pros: One of the few understanding CS profs&#8212;gives extensions, shares lab solutions, offers lots of extra credit, and is responsive to feedback. Live coding helps with learning. Chance for curve.
+Cons: Course is disorganized with a scattered set of low-level topics. Heavy focus on exams (partly due to LLMs). Project deadlines were messy.
+
+Goatstavo!
+
+--- Review 14 ---
+Class: CS252 | Date: 2025-05-12 | Quality: 2/5 | Difficulty: 4/5 | Grade: C+
+Tags: EXTRA CREDIT, Test heavy
+Comment: Extremely test heavy (30% midterm, 30% final) so very difficult for student who are not strong testers. Seem to have some issues with DRC accommodations. His office hours consist of "see me after class" so if you plan to speak to him, try not to have another class directly after his that you will be running off to. Lots of extra credit available!
+
+--- Review 15 ---
+Class: CS252 | Date: 2025-05-12 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Comment: Gustavo makes the course easier than Turkstra does, but this semester, his exams have been very unforgiving (the midterm more so than the final). There is very little you can do to know which multiple-choice topics will show up on exams, and he does little to help students prepare for them.
+
+--- Review 16 ---
+Class: CS252 | Date: 2025-05-10 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Amazing lectures , Lots of homework, Graded by few things
+Comment: Gustavo is a great professor, really helps you understand what's going on. Lectures are engaging. After taking 250 and 252 with him, he is the best CS professor here at Purdue. Exams were difficult and labs are time consuming but your understanding of systems will deepen. Watch out for shell project
+
+--- Review 17 ---
+Class: CS250 | Date: 2025-05-08 | Quality: 2/5 | Difficulty: 3/5 | Grade: A+
+Tags: Participation matters, Lecture heavy, Graded by few things
+Comment: The main thing saving Gustavo is that he clearly cares a lot about the student's success and as such extends deadlines, makes exams easier, and gives extra credit. However, the lectures are abysmal, the projects and slides haven't been updated since 2001, and the TAs have no idea what he wants either. The class is just uninteresting and unorganized
+
+--- Review 18 ---
+Class: CS250 | Date: 2025-05-06 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A-
+Tags: EXTRA CREDIT, Amazing lectures , Inspirational
+Comment: I love Professor Gustavo! He genuinely cares about his students and the stuff he taught me in the last two semesters will stay with me throughout life.
+
+--- Review 19 ---
+Class: CS252 | Date: 2025-05-04 | Quality: 1/5 | Difficulty: 5/5
+Tags: Participation matters, EXTRA CREDIT, Graded by few things
+Comment: I dont know if its the recent trend in AI in CS thats made him go mad at his students, but professor gustavo clearly did not like it and the midterm results for this class showed that. I thought CS250 was a fluke with him making bad exams but it seems to be the case in 252 as well now, simply way too test heavy and does not prep you well for them.
+
+--- Review 20 ---
+Class: CS252 | Date: 2025-05-03 | Quality: 1/5 | Difficulty: 4/5
+Tags: Hilarious
+Comment: can't teach to save his life
+
+--- Review 21 ---
+Class: CS252 | Date: 2025-04-29 | Quality: 3/5 | Difficulty: 4/5
+Tags: Participation matters, Lots of homework, Test heavy
+Comment: Incredibly rushed and unorganized class. He expects us to learn things from quiet week on the exam and long functions and structures, which we have no reference or cheat sheet for.
+
+--- Review 22 ---
+Class: CS252 | Date: 2025-04-28 | Quality: 3/5 | Difficulty: 3/5
+Tags: Tough grader, Participation matters, Amazing lectures
+Comment: Professor is a great lecturer, both engaging and informative. The projects are time consuming but useful. 
+
+Be careful on exams. Some exam graders make mistakes, grade vaguely, and at times know the content worse than you do. If you go in person to fix grades with the professor, be cautious as professor grades "holistically" and not by the rubric.
+
+--- Review 23 ---
+Class: CS252 | Date: 2025-04-24 | Quality: 2/5 | Difficulty: 3/5
+Tags: EXTRA CREDIT, Lots of homework, Test heavy
+Comment: Gustavo is liked by students because he outright gives answers to projects and gives extentions. But he doesn't teach well, and most handouts are confusing/don't give enough information to actually complete the projects. TLDR: he fixes problems he creates.
+Take GRR if you want to pass, but if you want to actually learn, find other ways.
+
+--- Review 24 ---
+Class: CS250 | Date: 2025-03-30 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B+
+Tags: EXTRA CREDIT, Amazing lectures , Respected
+Comment: Goatstavo, just don't procrastinate and it will be an easy class.
+
+--- Review 25 ---
+Class: CS250 | Date: 2025-03-14 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A-
+Tags: Inspirational, Caring, Respected
+Comment: He is the GOAT. All these other CS professors don't gaf about students well being at least gustavo does.
+
+--- Review 26 ---
+Class: CS252 | Date: 2025-03-12 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Hilarious, Respected
+Comment: Gustavo gave me several personal extensions on labs because I was having a hard time that semester with other classes (this was Spring 2023). He is also kind and caring to his students. However, I felt that the labs were pretty difficult to get started on but that isn't because of Gustavo, its because of the class itself. Also, grading is vague.
+
+--- Review 27 ---
+Class: CS250 | Date: 2025-02-27 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Comment: He's a good lecturer and a really nice person. If you can take a class with Gustavo instead of Turkstra, then definitely do it. My only complaints are that sometimes the class can be disorganized and that his exams are really unpredictable, especially the final.
+
+--- Review 28 ---
+Class: CS252 | Date: 2025-02-10 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Hilarious, Caring
+Comment: It's GOATsavo what's not to like.
+
+--- Review 29 ---
+Class: CS252 | Date: 2025-01-26 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A- | Online class: Yes
+Comment: Gustavo is an amazing professor who genuinely cares about students' success. Although the course material can be challenging, his engaging lectures, flexible deadlines, and willingness to help make it manageable. unstuckstudy is a great supplementary tool for exam prep.
+
+--- Review 30 ---
+Class: CS250 | Date: 2025-01-17 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: EXTRA CREDIT
+Comment: A little miscommunication with his TAs but generous with extra credit and deadlines as well as lenient grading on exams.
+
+--- Review 31 ---
+Class: CS250 | Date: 2025-01-14 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Tags: Lots of homework, Respected, Test heavy
+Comment: Definitely be sure to work hard and complete the projects. They are what will really help you understand lectures more. As redundant as it sounds, START EARLY. Lectures varied in how easy they were to understand, but I definitely recommend always going.
+
+--- Review 32 ---
+Class: CS250 | Date: 2025-01-13 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Comment: He is My goat
+
+--- Review 33 ---
+Class: CS250 | Date: 2024-12-17 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Tags: Clear grading criteria, Caring, Respected
+Comment: Prior to taking his class, I had only heard good things about Professor Gustavo. Everyone was right, he really cares about his students' learning, and if you pay attention in lectures and study the material you will have at least a B in the class. Genuinely one of the best professors I've had.
+
+--- Review 34 ---
+Class: CS250 | Date: 2024-12-05 | Quality: 3/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, EXTRA CREDIT, Respected
+Comment: Prof Gustavo is overall a good professor, but not a great lecturer. He focused too much on a Compiler project and rushed the actual CS 250 content in only a week right before the final. Projects are very time consuming, be ready to put in the time.
+
+--- Review 35 ---
+Class: CS252 | Date: 2024-10-08 | Quality: 3/5 | Difficulty: 1/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Clear grading criteria
+Comment: His lectures are engaging to listen to, but he spends a lot of time explaining and doing the projects in class, so more material could have been covered. Class was sometimes disorganized, like midterm being unavailable or giving everyone a 100 for assignments because not enough time to grade it. People like him as he gives (predictable) extensions.
+
+--- Review 36 ---
+Class: CS250 | Date: 2024-09-30 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: Incomplete
+Tags: Participation matters, Caring, Respected
+Comment: He's really good but he always makes class end late and it's very annoying.
+
+--- Review 37 ---
+Class: CS252 | Date: 2024-08-19 | Quality: 4/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A-
+Tags: Lots of homework, Caring
+Comment: Had him for 250 and he was about the same in 252. He clearly cares about his students and is overall a pretty cool guy. My only complaint is that the requirements for projects just sometimes aren't accessible, leaving everyone confused. It is not fun to stress about about projects worth literally 15% of your grade because of unclear expectations!
+
+--- Review 38 ---
+Class: CS252 | Date: 2024-05-09 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: EXTRA CREDIT, Lots of homework, Caring
+Comment: The class was a bit disorganized, and the added content to the shell project did make me lose my mind, but otherwise he's a very caring professor. He extended deadlines as needed, and exam content was pretty well-correlated to labs and lecture content, so there wasn't too much extra self-studying needed.
+
+--- Review 39 ---
+Class: CS252 | Date: 2024-05-06 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A-
+Tags: Amazing lectures , Inspirational, Caring
+Comment: Best instructor I've had at Purdue, or even ever, period. I've always had retention issues but in his lectures, I actually pay attention and learn. Unlike other profs *cough turk*, he sees students as humans and will understand your situation. Very caring and will HELP if you are struggling. So thankful for Gustavo, he's saving Purdue CS!!!
+
+--- Review 40 ---
+Class: CS252 | Date: 2024-05-02 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, Lots of homework, Caring
+Comment: Gustavo is awesome, CS 252 destroys your perception of HW with Shell, but Gustavo gave deadlines and code and made the class bearable. He answers questions as best as he can. The lectures can be a bit boring, but the slides are posted, and you can study all the theory easily from the slides.
+
+--- Review 41 ---
+Class: CS252 | Date: 2024-04-24 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Respected
+Comment: A little disorganized but a great professor and lecturer. He is always willing to help students.
+
+--- Review 42 ---
+Class: CS252 | Date: 2024-03-21 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Amazing lectures , Inspirational, Caring
+Comment: Best professor! He has flexible deadlines and is very knowledgeable. His lectures are engaging and interesting. He's my biggest inspiration!
+
+--- Review 43 ---
+Class: CS252 | Date: 2024-03-21 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Amazing lectures , Inspirational, Respected
+Comment: Gustavo is the love of my life. He's so amazing he made me like systems programming. My only wish in life is to picked for participation. I don't think I'd finish shell if not for him.
+
+--- Review 44 ---
+Class: CS250 | Date: 2024-03-21 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Inspirational, Caring, Respected
+Comment: Gustavo gives me willpower to continue with my degree
+
+--- Review 45 ---
+Class: CS250 | Date: 2024-03-04 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, EXTRA CREDIT, Caring
+Comment: Great:
+- Bonus points for answering any question in class
+- Incredibly caring and passionate
+- Great system for attendance (partake)
+- Makes a relatively dry subject (systems) interesting and fun
+
+Not great:
+- Course could use more organization
+- Question forums could be monitored better at times
+
+Overall, Gustavo is my favorite professor ever!!
+
+--- Review 46 ---
+Class: CS250 | Date: 2024-01-05 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, Caring
+Comment: Gustavo is a pretty chill professor, and he deserves his 5/5 rating. However, his lectures were good but were mostly reading from his slides, and it was often difficult to catch what information was actually important for the HWs and exams. The class was very interesting and he is clearly passionate about the content. Beware of compiler project!
+
+--- Review 47 ---
+Class: CS250 | Date: 2023-12-20 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: EXTRA CREDIT, Caring, Respected
+Comment: Prof Gustavo genuinely cares about his students and wants them to learn. He actively listens to his students and extends deadlines when needed to minimize stress. He also gives plenty of hints and tips for projects and homework as well as extra credit opportunities.
+
+--- Review 48 ---
+Class: CS250 | Date: 2023-12-14 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Inspirational, Caring, Respected
+Comment: He's my favorite professor at Purdue. He's incredibly knowledgeable, very passionate about teaching and course content, and he cares a whole lot about students. The projects we did in this course were meaningful, engaging, and enjoyable. I have literally no complaints, 10/10, GOATstavo
+
+--- Review 49 ---
+Class: CS250 | Date: 2023-12-12 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Hilarious, Caring
+Comment: GRR is the best professor that I have encountered at Purdue. I rarely leave reviews for anything, but Gustavo has set himself apart. His lectures are long, but I could listen to him all day. He is an exceptionally nice man and genuinely cares about the students. I learned so much more from GRR than I would have from another professor.
+
+--- Review 50 ---
+Class: CS250 | Date: 2023-11-15 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Comment: He is really understanding with students. One of the best teachers I have had. Really nice professor and you learn a lot with him.
+
+--- Review 51 ---
+Class: CS250 | Date: 2023-11-14 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, Amazing lectures , Hilarious
+Comment: Gustavo is the GOATstavo. I say the lectures are mandatory because he teaches so well and gives bonus points to those to answer his questions in class. As a result, there's a really nice learning environment. I enjoy his class and his energy. He's funny and so nice. Such a good prof.
+
+--- Review 52 ---
+Class: CS252 | Date: 2023-04-30 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Tags: Amazing lectures , Clear grading criteria, Caring
+Comment: Professor Gustavo has to be one of the best professors I've had for a CS class because he really structured the course to set us up to succeed. Though some projects were quite hard, he gave us a lot of guidance along with several extensions that were extremely helpful. The lectures are excellent as he teaches the material very well.
+
+--- Review 53 ---
+Class: CS252 | Date: 2023-04-25 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Clear grading criteria, Caring
+Comment: I have heard from pretty much every CS upperclassman that Gustavo is the GOAT, and he truly was. He is without a doubt my favorite professor I have ever had at Purdue. He is extremely caring and flexible with project deadlines. The projects are notoriously for being tough, but there is ample time to complete them.
+
+--- Review 54 ---
+Class: CS252 | Date: 2023-04-25 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: C+
+Tags: Caring, Respected
+Comment: Some lectures can be a bit dry but he does his best to keep it engaging. Really he's just the most helpful CS professor i've ever had to date, giving plenty of direction on the labs, live coding examples, and psudeo code on the slides. Was scared for the shell project but he extended the due date and made it not a living hell. I respect his style.
+
+--- Review 55 ---
+Class: CS252 | Date: 2023-04-20 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Clear grading criteria, Caring
+Comment: Prof Gustavo gives amazing and hilarious lectures, allowing anyone to understand about very dry topics in Systems Programming. In addition, he cares about his students and is willing to give extensions to deadlines if most students are unable to meet them (though this seems to be a yearly occurrence).
+
+--- Review 56 ---
+Class: CS252 | Date: 2023-02-27 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, Clear grading criteria, Caring
+Comment: Professor Gustavo is a very good lecturer who has the unique ability to make the driest of topics interesting. He is one of the few CS professors who truly cares about his students and is willing to make adjustments to allow students to complete their work without lowering course standards. This course was great, even with the shell project.
+
+--- Review 57 ---
+Class: CS252 | Date: 2023-02-01 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Tags: Amazing lectures , Inspirational, Caring
+Comment: Very passionate about the content and the students. An amazing professor to learn from and I always enjoyed his lectures. A bit of an accent but its really not bad
+
+--- Review 58 ---
+Class: CS240 | Date: 2023-01-18 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B+
+Tags: Participation matters, Hilarious, Caring
+Comment: Gustavo is an amazing professor, his class is always fun to participate not to mention that the curve is great as well. Keep in mind that participation does matter since there'll always be a quiz at the end of every lecture. Exams are relatively easy since it's live coding and he'll give you a list of problems that will appear on the exams .
+
+--- Review 59 ---
+Class: CS240 | Date: 2023-01-04 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B+
+Tags: Caring
+Comment: Most of the lecture material is pretty boring, but Gustavo makes jokes and shows to his students that he really cares about our success. He is hard to email or contact outside of class, but is receptive to questions in/directly after class. Overall good guy and you can tell he cares, though his lectures aren't really helpful for the labs/exams.
+
+--- Review 60 ---
+Class: CS240 | Date: 2022-12-28 | Quality: 3/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Lots of homework, Test heavy
+Comment: Good guy, but his lectures (which don't help with labs) are boring despite mandatory attendance.
+Class this sem was questionable. Homeworks/exams were graded a whole month after doing them. An entire midterm was somehow lost for many students. Weak structure (ex: no one knew how the 3 practice exams were weighted until the last day of the sem)
+
+--- Review 61 ---
+Class: CS240 | Date: 2022-12-23 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A+
+Tags: EXTRA CREDIT, Graded by few things
+Comment: Lectures are quite mediocre but are okay. Labs were organized quite well and were fun. I enjoyed the course personally (probably the best course I had this semester) but I know plenty of peers who didn't think so YMMV.
+
+--- Review 62 ---
+Class: CS240 | Date: 2022-12-21 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Tags: EXTRA CREDIT, Inspirational, Graded by few things
+Comment: CS240 with Professor Gustavo is a what you make of it. The lecture content is not great for first time C learners. All potential exam questions are given to you a week before the exam. The homework grading is generous and forgiving if you put in time to complete it. He offers extra credit towards the end but it is very difficult. Seek help with TAs
+
+--- Review 63 ---
+Class: CS240 | Date: 2022-12-20 | Quality: 2/5 | Difficulty: 1/5 | Would take again: Yes | Grade: A
+Comment: Material in lectures often had little to do with labs. TAs given little material to work with. Professor disorganized, unprepared, and confusing in lectures. Grading extremely late. Lost around 20% of exams. Extremely disappointed with poorly taught and poorly organized course. But hey, C will not get in your way to make your program fast!!
+
+--- Review 64 ---
+Class: CS240 | Date: 2022-12-07 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: EXTRA CREDIT, Inspirational, Caring
+Comment: I love him
+
+--- Review 65 ---
+Class: CS250 | Date: 2022-11-28 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A-
+Tags: Participation matters, EXTRA CREDIT, Respected
+Comment: Professor Gustavo is fantastic at making CS material extremely interesting. The material covered in this course is very important and Gustavo will cover way more than the other CS250 Professors, which sounds like a bad thing, but it's very manageable and puts you ahead in following CS courses.
+
+--- Review 66 ---
+Class: CS252 | Date: 2022-06-10 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Accessible outside class
+Comment: Gustavo is a phenomenal instructor! He is engaging, passionate about CS, and understands that we're students. Highly recommend going to/watching lecture since he explains important lab concepts. The exams are usually based on lab content, so watching lectures helps with studying! Start labs EARLY; you need all the time that you can get on them!
+
+--- Review 67 ---
+Class: CS252 | Date: 2022-05-09 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Participation matters, EXTRA CREDIT, Clear grading criteria
+Comment: Professor Gustavo is the best CS professor in Purdue, and he is funny and cute. He really cares about students.
+
+--- Review 68 ---
+Class: CS252 | Date: 2022-03-31 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Participation matters, Amazing lectures , Inspirational
+Comment: Even though the course material is very difficult, Prof. Gustavo's lecture makes them so much easier to understand. Great professor.
+
+--- Review 69 ---
+Class: CS252 | Date: 2022-01-18 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: Audit/No Grade
+Tags: Inspirational, Hilarious, Amazing lectures
+Comment: 252 with Gustavo is one of those legendary combinations you just can't miss. He is engaging, and he goes over all of the labs in lecture in detail, so you always know what to expect.
+
+--- Review 70 ---
+Class: CS252 | Date: 2022-01-06 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: C+
+Tags: Respected, Amazing lectures, Caring
+Comment: Simply the best. Fantastic professor, incredibly passionate about what he's teaching. Funny enough to keep your attention, without getting off-topic in an annoying way. The course is tough, but he does all he can to help students, and willing to take feedback into account. If I could have him as my professor for every Purdue CS class, I would.
+
+--- Review 71 ---
+Class: CS252 | Date: 2021-12-15 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Respected, Inspirational
+Comment: Gustavo is seriously one of my favorite professors at the university. Not just in the CS department, but at the school in general. He really cares about his students success and has an amazing way of explaining complicated concepts. But be warned, the projects are EXTREMELY hard. Especially malloc and the shell project.
+
+--- Review 72 ---
+Class: CS250 | Date: 2021-08-07 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A+
+Tags: Respected, Amazing lectures, EXTRA CREDIT
+Comment: Gustavo is a great professor. His lectures are clear and easy to understand. He repeats the important stuff multiple times to make sure you definitely remember it. He does give &quot;brownie points&quot; (extra credit), which I did not expect this at all until the final grade was released.
+
+--- Review 73 ---
+Class: CS250 | Date: 2021-07-31 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Accessible outside class, Test heavy, Caring
+Comment: He cares about his class and his students a lot and you can see that for sure. The class is hard but he's very understanding and willing to help you through it. His accent might be something you need to get used to though. Tests worth a lot so make sure you prepare for them
+
+--- Review 74 ---
+Class: CS250 | Date: 2021-07-21 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Gives good feedback, Test heavy, Amazing lectures
+Comment: Don't get me wrong cs250 is a challenging course standalone, but Gustavo really knows a lot of things and can teach you things even beyond the scope, and I really appreciate that. He treats student's question with patient, and can often extend the student's questions and teaches us more about fundamental CS. Exam counts as 60%, and it's very hard.
+
+--- Review 75 ---
+Class: CS252 | Date: 2021-06-11 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A+
+Tags: Gives good feedback, Respected, Amazing lectures
+Comment: Professor Gustavo is one of the best professors at Purdue CS. He is very encouraging and inspiring. He pushes you to work harder. I would say he is not a strict professor. I learned a lot from the class, the lectures were awesome. He made the class interactive even though we had zoom lectures. I would recommend a class with 100%.
+
+--- Review 76 ---
+Class: CS252 | Date: 2021-05-12 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+ | Online class: Yes
+Tags: Gives good feedback, Respected, Graded by few things
+Comment: Really nice man and great professor. Good lectures and fairly straightforward exams. The main part of the class is the 5 projects, and while they aren't that easy, if you start early and take your time to work through it, it's very doable.
+
+--- Review 77 ---
+Class: CS252 | Date: 2020-12-17 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Online class: Yes
+Comment: Gustavo is a smart professor and good at communicating and teaching. Class was online so he didn't really have attendance but he had quizzes and tried to make sure people didn't answer on the livestream to encourage you to watch the videos.
+
+--- Review 78 ---
+Class: CS252 | Date: 2020-12-17 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Tags: Respected, Participation matters, EXTRA CREDIT
+Comment: Had Professor Gustavo for CS250 and CS252. He was great in both classes. Exams are easy so long as you show up to class and do a little bit of studying. Labs/projects are no issue so long as you start early. Lectures are very entertaining, and will miss them.
+
+--- Review 79 ---
+Class: CS252 | Date: 2020-12-16 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A | Online class: Yes
+Tags: Amazing lectures, Respected, Caring
+Comment: I had Gustavo for both CS250 and CS252. In both classes he was an excellent professor that explained the material thoroughly. He is very passionate about his work and that showed in his lectures. Class is very doable as long as you budget your time right for the labs. One of the best professors at Purdue.
+
+--- Review 80 ---
+Class: CS252 | Date: 2020-12-03 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A- | Online class: Yes
+Tags: Skip class? You won't pass., Amazing lectures, Caring
+Comment: I had him for 250 so I was so excited to have him for 252. He only got better. Such a smart, caring and kind person. He actually made me consider pursuing Systems as a track. Very inspirational. Explains labs in class. If you take this class seriously, you will have fun. Start labs ASAP and make sure to get help along the way.
+
+--- Review 81 ---
+Class: CS252 | Date: 2020-09-28 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A-
+Comment: Amazing professor. The class was not as difficult as expected. START LABS EARLY.
+
+--- Review 82 ---
+Class: CS250 | Date: 2020-09-18 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A | Online class: Yes
+Tags: Respected
+Comment: The best prof!
+
+--- Review 83 ---
+Class: CS250 | Date: 2020-08-07 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A | Online class: Yes
+Tags: Participation matters, Amazing lectures, Caring
+Comment: Professor is a very knowledgeable person and explains everything really well. He is also really supportive of asking questions. Overall, if you get him, you are in good hands! Just be genuinely interested in his lectures, take notes and ask questions whenever you have them. Material isn't too hard, just takes a little time to understand.
+
+--- Review 84 ---
+Class: CS408 | Date: 2019-11-18 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes
+Tags: Respected, Amazing lectures, Caring
+Comment: Now I register for class, I see Gustavo and I pick him right away.
+
+--- Review 85 ---
+Class: CS240 | Date: 2019-07-12 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Comment: I took 240, 252, and 408 with Gustavo. My absolute favorite professor. He explains material like no other. Exams are hard but fair. Projects relate well to the material. Just remember: C doesn't get in your way to make your program run fast.
+
+--- Review 86 ---
+Class: CS252 | Date: 2019-05-08 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Respected, Inspirational, Amazing lectures
+Comment: By far best CS professor at Purdue. Can't say enough nice things about the guy. Explains concepts very clearly in lectures so that students understand. Provides extensions on assignments when many students are struggling because he believes that it's better for students to do the assignments and learn instead of give up and lose out on learning.
+
+--- Review 87 ---
+Class: CS252 | Date: 2019-04-25 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A-
+Tags: Respected, Inspirational, Hilarious
+Comment: Amazing professor. Would take him again for any other class in a heartbeat.
+
+--- Review 88 ---
+Class: CS252 | Date: 2019-04-21 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A-
+Tags: Respected, Hilarious, EXTRA CREDIT
+Comment: Gustavo is a rock star.
+
+--- Review 89 ---
+Class: CS252 | Date: 2019-04-01 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes
+Comment: Gustavo is a great lecturer who is constantly reminding students of the big picture. He does require attendance with iQlicker questions after lecture. 252 is the last painful CS class you'll take, and Gustavo is very reasonable with deadlines and even gave us an extra four days for the shell project. I also had him for 251. Would recommend.
+
+--- Review 90 ---
+Class: CS252 | Date: 2018-12-24 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Respected, ACCESSIBLE OUTSIDE CLASS, Clear grading criteria
+Comment: Amazing professor; accent can be a small roadblock, but if you can get past that, he's a great lecturer. Specifically CS252: The &quot;dreaded shell project&quot; is not that big of an issue. You have to write your own version of bash, but lecture+book notes give you amazing code snippets. All 5-6 projects allow for extra credit, class curve was 82% -&gt; A.
+
+--- Review 91 ---
+Class: CS251 | Date: 2018-08-21 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: TEST HEAVY
+Comment: Legend!
+
+--- Review 92 ---
+Class: CS252 | Date: 2018-04-24 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B+
+Tags: Respected, ACCESSIBLE OUTSIDE CLASS, Caring
+Comment: The best professor at Purdue, end of story.
+
+--- Review 93 ---
+Class: CS251 | Date: 2018-03-26 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A
+Tags: Gives good feedback, ACCESSIBLE OUTSIDE CLASS, Amazing lectures
+Comment: Always teaches great classes; in my time, his classes for CS240 and CS251 were pretty early so it was hard to want to get up for them, but he's a very effective lecturer. He does have &quot;mandatory attendance,&quot; but really it's just an iClicker quiz at the end of class (which he gives you the answer to so you don't lose points). Always take his classes
+
+--- Review 94 ---
+Class: CS252 | Date: 2017-12-19 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes | Grade: B+
+Tags: Respected, Hilarious, Caring
+Comment: Very fair professor. Extended projects when students were struggling. He's a funny guy and makes a lot of jokes during class. He clearly cares a lot about his students' success. On the flip side, he can be a little disorganized, sometimes he'd release solutions or assignments much later than promised. Difficult class but good professor.
+
+--- Review 95 ---
+Class: CS240 | Date: 2017-11-30 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, Skip class? You won't pass., Caring
+Comment: Course is tough, but professor is nice. He really cares about his students. Quick response on piazza and emails. Practice exams cover most of real exams, so do do all practice exams Labs are really tough tho but you have whole week to do each.
+
+--- Review 96 ---
+Class: CS251 | Date: 2017-07-19 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes
+Comment: Very good professor. I took cs240 and cs251 with him. He explains topic pretty well and the exams are very predictable. Going to take cs252 with him again. His accent can be hard to understand at first, but once you got used to it, you will be fine.
+
+--- Review 97 ---
+Class: CS251 | Date: 2017-07-19 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A-
+Tags: Gives good feedback, Respected, Inspirational
+Comment: Had him for 240 and 251, Amazing professor, knows what he is talking about. Can approach him whenever and is clear on the assignments
+
+--- Review 98 ---
+Class: CS251 | Date: 2017-07-12 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes
+Comment: He is funny and knowledgable. Also, he is very easy on student, not the bad way. His exams are usually selected form homework or lab problems. He won't throw questions that you never seen before in exam.
+
+--- Review 99 ---
+Class: CS240 | Date: 2017-07-07 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: A+
+Tags: Inspirational, ACCESSIBLE OUTSIDE CLASS, Amazing lectures
+Comment: CS240 with Gustavo  was amazing! You will need to work hard but he will always be ready to help. He makes lectures interesting and is a funny guy!
+
+--- Review 100 ---
+Class: CS390 | Date: 2017-05-10 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Comment: Prof Gustavo's CS390-VRA. He showed up for class maybe once or twice. The course was pretty much a self-taught class with TA's to walk around and help you if needed during lab. Easy A
+
+--- Review 101 ---
+Class: CS240 | Date: 2017-05-07 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Tags: Inspirational, Hilarious, Amazing lectures
+Comment: Gustavo is a fantastic lecturer. He explains the topics very clearly and also takes the time to explain why each topic matters and what its real-world applications are. He's also pretty funny. Attendance is 10% of the grade, but it's really not a big deal because the lectures are so great.
+
+--- Review 102 ---
+Class: CS240 | Date: 2017-04-24 | Quality: 4/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, TEST HEAVY
+Comment: Great overall professor who knows what he's doing.
+
+--- Review 103 ---
+Class: CS252 | Date: 2016-12-13 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, Amazing lectures, Caring
+Comment: One of the best, if not THE best, professors in the CS department. His lectures are easy to understand and you will learn a lot from him. His projects can be tough, but he will help students to finish them. Exams can be difficult as well, but they are fair and only cover material that was taught in class. He cares about his students' success.
+
+--- Review 104 ---
+Class: CS250 | Date: 2016-09-26 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: B+
+Tags: Gives good feedback, ACCESSIBLE OUTSIDE CLASS, EXTRA CREDIT
+Comment: Knowledgeable professor. Completely chill. Classes are easy if you attend his lectures.
+
+--- Review 105 ---
+Class: CS240 | Date: 2016-03-23 | Quality: 5/5 | Difficulty: 1/5 | Grade: A-
+Comment: He is a good professor, even though I retake his CS240. Very friendly and open to students.
+
+--- Review 106 ---
+Class: CS240 | Date: 2016-03-08 | Quality: 4/5 | Difficulty: 3/5 | Grade: Rather not say
+Comment: Gotta work for the grade. Great lecturer, just make sure to pay attention so you can understand his accent.
+
+--- Review 107 ---
+Class: CS240 | Date: 2016-03-02 | Quality: 5/5 | Difficulty: 4/5 | Grade: A-
+Comment: Wonderful Professor!Very helpful and has great lectures; always provides examples and the accent,despite the natural dryness of the material, makes the lectures interactive and fun!He really wants to help students; if you put work in the labs and projects,you will do fine. Exams are fair but could be lengthy. Definitely recommend taking his classes
+
+--- Review 108 ---
+Class: CS240 | Date: 2015-12-22 | Quality: 5/5 | Difficulty: 1/5 | Grade: A
+Comment: Although professor has great accent, but he is very nice. If you have time conflict with the exam, he will push back to another time. If there are a lot of students who can not finish lab on time, he will assist them.
+
+--- Review 109 ---
+Class: CS240 | Date: 2015-11-16 | Quality: 5/5 | Difficulty: 3/5 | Grade: A-
+Comment: Very heavily project-based class. If you know C you're fine; otherwise, it will require some work on your part. Definitely recommend going to class.
+
+--- Review 110 ---
+Class: CS251 | Date: 2014-08-13 | Quality: 5/5 | Difficulty: 3/5
+Comment: Fantastic professor and very understanding. Really wants to help you succeed.
+
+--- Review 111 ---
+Class: CS250 | Date: 2013-11-25 | Quality: 5/5 | Difficulty: 2/5
+Comment: Excellent professor. He is generous to provide all the slides as long as the semester begins. Since his slides is so clear that you do not need any text book for his course, which is awesome! At first his accent may scare you, but everything's gonna be excellent as long as you get used to it. The best prof I have ever met in CS Department.
+
+--- Review 112 ---
+Class: CS250 | Date: 2013-10-20 | Quality: 5/5 | Difficulty: 1/5
+Comment: PROS:Explains everything clearly, pretty easy project based teaching method, gives clear study material for exams. You literally have to try to fail his class. Go to class, do his exam study, get an A. CONS: Interesting accent, not the worst I've heard. Can feel a little slow if you already understand some of the material since he is very verbose.
+
+--- Review 113 ---
+Class: CS251 | Date: 2013-05-10 | Quality: 5/5 | Difficulty: 1/5
+Comment: HILARIOUS! excellent notes...GO. TO. CLASS. although, he does post some of them and whomever posts the notes gets extra credit. i think he's an ok prof, just go to class and take the notes. he extends basically every project, so not too much worry there, just do them...cuz they are still long and hard
+
+--- Review 114 ---
+Class: CS252 | Date: 2013-04-25 | Quality: 5/5 | Difficulty: 1/5
+Comment: Great professor!! I love him
+
+--- Review 115 ---
+Class: CS250 | Date: 2013-01-09 | Quality: 5/5 | Difficulty: 3/5
+Comment: Wonderful professor.
+
+--- Review 116 ---
+Class: CS252 | Date: 2012-12-13 | Quality: 5/5 | Difficulty: 3/5
+Comment: Had him for 252 and 250. Awesome guy, will do anything to help you out if you ask. Always willing to give extensions if you just ask. Prepares you well for his exams. Highly recommended.
+
+--- Review 117 ---
+Class: CS251 | Date: 2010-05-06 | Quality: 3/5 | Difficulty: 3/5
+Comment: I had Gustavo for Computer Architecture and Data Structures. He has an amusing accent. Exams are difficult. Projects are difficult. Some of his notes are dead wrong. But you have to be in class, or you won't ever know.
+
+--- Review 118 ---
+Class: CS354 | Date: 2009-10-09 | Quality: 5/5 | Difficulty: 2/5
+Comment: Dedicated, friendly, and interesting.  His projects are the best and most educational of nearly everyone in the department.  I and several other students swear by his teaching.  Many of us would take a bullet for him.  He can veer off on wild tangents that somehow end up being surprisingly informative.  I wish I had taken every class he offered.
+
+--- Review 119 ---
+Class: CS352 | Date: 2009-08-25 | Quality: 5/5 | Difficulty: 1/5
+Comment: Gustavo is an amazing professor. His classes are project-based and easy because of his clear explanations. If a certain project is too difficult, ask for an extension and he'll be happy to help. If you have any opportunity to take classes with him, do it. However, don't bother buying the textbook; it's never officially used for class.
+
+--- Review 120 ---
+Class: CS422 | Date: 2009-04-29 | Quality: 5/5 | Difficulty: 2/5
+Comment: This is one of the best professors I have had at Purdue.  The course is easy if you try.  His projects are the most practical and best real-world examples that I have gotten, ranging from a search engine to an internet phone to a Twitter clone.  I definitely recommend him.
+
+--- Review 121 ---
+Class: CS01 | Date: 2009-01-28 | Quality: 4/5 | Difficulty: 4/5
+Comment: AWESOME !!!
+
+--- Review 122 ---
+Class: CS354 | Date: 2007-06-07 | Quality: 5/5 | Difficulty: 3/5
+Comment: CS354
+
+--- Review 123 ---
+Class: CS354 | Date: 2007-06-04 | Quality: 5/5 | Difficulty: 2/5
+Comment: Supplies a LOT of code for projects and explains it well enough for tests to be reasonable.  If you have a complaint about the course or struggle with any material, he'll do everything he can to help you out... no joke.
+
+--- Review 124 ---
+Class: CS420 | Date: 2007-05-01 | Quality: 4/5 | Difficulty: 1/5
+Comment: A tad hard to understand, but interesting lecture and random tangents.  Pretty easy exams and projects.  One of the memorable CS profs.
+
+--- Review 125 ---
+Class: CS251 | Date: 2006-08-03 | Quality: 5/5 | Difficulty: 1/5
+Comment: Gustavo is awesome.  He has great advice on what programmers should know even if it isn't part of the class.  He is more practical than any of the other CS teachers I've had at Purdue and his classes include interesting projects.  I think anybody can get an A in his classes if they try.  He is always available and helpful.
+
+--- Review 126 ---
+Class: CS354 | Date: 2006-03-28 | Quality: 5/5 | Difficulty: 3/5
+Comment: Great professor - lectures are very interesting. Projects are very applied and make learning the material easier.
+
+--- Review 127 ---
+Class: CS422 | Date: 2005-12-09 | Quality: 5/5 | Difficulty: 3/5
+Comment: Awsome prof. Taught well.
+
+--- Review 128 ---
+Class: CS354CS314 | Date: 2005-10-16 | Quality: 2/5 | Difficulty: 1/5
+Comment: Class is way too dumbed down. Lingers on simple things and then practically skips over important stuff. Half of the OS midterm was about linked lists for god's sake. I felt dumber every time I came, so I didn't. Got an A both times.
+
+--- Review 129 ---
+Class: CS251 | Date: 2005-05-04 | Quality: 4/5 | Difficulty: 4/5
+Comment: He's a little hard to understand; but he is also the only professor that I have ever had at Purdue that responds to my emails at that I send at 10:00 pm or 11:00 pm within 5-10 minutes.
+
+--- Review 130 ---
+Class: CS354CS422 | Date: 2004-12-11 | Quality: 5/5 | Difficulty: 2/5 | Grade: B-
+Comment: Had him for both Operating Systems and Computer Networks....  CS 354 is HIS course.  His course structures are far more practical, informative and fair than most of my CS courses were.  Good Job Gustavo  (and yes, the accent is ..distinctive!)
+
+--- Review 131 ---
+Class: CS354 | Date: 2004-10-31 | Quality: 5/5 | Difficulty: 1/5
+Comment: Awsome professor... What else I can say.
+
+--- Review 132 ---
+Class: CS314 | Date: 2004-08-10 | Quality: 5/5 | Difficulty: 2/5
+Comment: Made the course easy. If taken under Elisha, I would have failed!!!
+
+--- Review 133 ---
+Class: CS354 | Date: 2004-05-26 | Quality: 3/5 | Difficulty: 3/5
+Comment: You learn about ze boffer in leenooks.
+
+--- Review 134 ---
+Class: CS354422 | Date: 2004-05-03 | Quality: 5/5 | Difficulty: 3/5
+Comment: eh... guys, it's not difficult...  He had some amusing quirks, but was an amazing professor.  He always went out of his way to help out a student.
+
+--- Review 135 ---
+Class: CS354 | Date: 2003-03-12 | Quality: 5/5 | Difficulty: 2/5
+Comment: There's nobody like Gustavo!
+
+--- Review 136 ---
+Class: CS354 | Date: 2003-03-06 | Quality: 4/5 | Difficulty: 4/5
+Comment: No Comments
+
+--- Review 137 ---
+Class: CS413 | Date: 2003-02-19 | Quality: 4/5 | Difficulty: 3/5
+Comment: Amusing accent and very flexible on assigned due dates
+
+--- Review 138 ---
+Class: CS413 | Date: 2003-02-17 | Quality: 5/5 | Difficulty: 4/5
+Comment: No Comments

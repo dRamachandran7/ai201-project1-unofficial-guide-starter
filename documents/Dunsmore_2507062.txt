@@ -1,0 +1,95 @@
+Professor: Hubert Dunsmore
+Department: Computer Science
+School: Purdue University - West Lafayette
+Course (from planning.md): CS 180 (dept. head)
+Overall quality: 4.1/5
+Average difficulty: 3.4/5
+Would take again: 75%
+Total ratings: 16
+Source: https://www.ratemyprofessors.com/professor/2507062
+
+============================================================
+--- Review 1 ---
+Class: CS18000 | Date: 2025-08-25 | Quality: 3/5 | Difficulty: 2/5 | Grade: A
+Tags: Lots of homework, Hilarious, Test heavy
+Comment: CS180 is a well-structured introductory course, and Professor Dunsmore loves teaching it. He has great personality and energy, though may tangent or fail to properly explain the material. Though overall his teaching was effective, he occasionally came off condescending or would stress the wrong material while missing key concepts.
+
+--- Review 2 ---
+Class: CS18000 | Date: 2025-05-08 | Quality: 5/5 | Difficulty: 5/5 | Would take again: Yes
+Tags: Tough grader, Inspirational, Hilarious
+Comment: I love this guy always doing so well inspiring truely, made me respect him so much he didnt do well himself but look at him now, PHD in CS and In one of the best universities in the world
+
+--- Review 3 ---
+Class: CS18000 | Date: 2025-04-10 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: C+
+Tags: Hilarious
+Comment: Not a bad teacher by any means, but the lectures can get a little boring as he reads off of them like slides. Overall though, he does a good job at explaining and keeping things interesting.
+
+--- Review 4 ---
+Class: CS18000 | Date: 2025-01-09 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: B
+Tags: Group projects, Clear grading criteria, Caring
+Comment: Great introductory course!
+
+--- Review 5 ---
+Class: CS18000 | Date: 2024-12-18 | Quality: 4/5 | Difficulty: 2/5 | Would take again: Yes | Grade: C+
+Comment: Honestly some of his lectures can get a little boring considering it feels like a powerpoint presentation, but he does his best to explain things and is overall chill and you could do worse.
+
+--- Review 6 ---
+Class: CS18000 | Date: 2024-12-03 | Quality: 3/5 | Difficulty: 5/5
+Tags: Group projects, Lots of homework, Caring
+Comment: Ok lecturer. His lectures are basically just reading off a PowerPoint presentation. As for the presentations themselves, they're not very flashy either. I learnt more by doing the projects and homeworks than from the actual lectures. Speaking of homework, there's a lot. Very difficult course, do not take unless you know what you're getting into.
+
+--- Review 7 ---
+Class: CS18000 | Date: 2024-10-30 | Quality: 1/5 | Difficulty: 5/5 | Grade: B-
+Tags: Group projects, Lots of homework, Lecture heavy
+Comment: All the teaching is through a PowerPoint. Although there is live coding once a week, it doesn't truly go over everything we learned in class. We learn basic syntax through the PowerPoint, but the homework and exams are extremely difficult, not matching what we learned in class. In one week I was given a group project, homework, project, and exam.
+
+--- Review 8 ---
+Class: CS18000 | Date: 2024-10-30 | Quality: 1/5 | Difficulty: 5/5 | Grade: B-
+Tags: Tough grader, Group projects, Lots of homework
+Comment: This professor reads straight from PowerPoint, focusing on random concepts like sentinel variables instead of practical coding skills. Vocareum, the coding platform, provides vague feedback, making it tough to learn. TAs lack expertise, and overall, the course feels more frustrating than helpful. Test out if possible.
+
+--- Review 9 ---
+Class: CS18000 | Date: 2024-08-15 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Amazing lectures , Lots of homework, Respected
+Comment: Absolute GOAT of a professor. Took CS180 over the summer as a rising high school sophomore, and this was indeed a hard class. Prof. Dunsmore taught the material extremely well. My advice: start on assignments early, do well on midterm and finals. It's either the team project that tanks the grade (usually depending on your teammates) or the final.
+
+--- Review 10 ---
+Class: CS18000 | Date: 2024-03-25 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A
+Tags: Group projects, Amazing lectures , Respected
+Comment: Professor Dunsmore is the GOAT. God bless this man. 
+
+I had him for CS180, it really wasn't too bad of a class imo. Start homeworks early, especially the group project ones, and show up for labs.
+
+As far as being a professor goes, Dunsmore did an excellent job. He was kind and understanding, but made sure to keep the class in line as well.
+
+5/5
+
+--- Review 11 ---
+Class: CS18000 | Date: 2024-01-19 | Quality: 5/5 | Difficulty: 2/5 | Would take again: Yes | Grade: A+
+Tags: Group projects, Amazing lectures , Respected
+Comment: Teaches really really well. Found his class pretty easy as well, but you have to put in some effort.
+
+--- Review 12 ---
+Class: CS18000 | Date: 2023-12-21 | Quality: 5/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A+
+Tags: Group projects
+Comment: Great lecturer. I had no experience with Java and object-oriented programming, but he made it easy to understand. Attendance is not mandatory but lecture quizzes make up a big part of your grade. Homeworks were very helpful for understanding.
+
+--- Review 13 ---
+Class: CS18000 | Date: 2023-12-02 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: Incomplete
+Tags: Amazing lectures , Hilarious, Lecture heavy
+Comment: He's a phenomenal professor! The only thing that I'd say is that the review slides don't really make a lot of sense without context, so attending lectures is a must!
+
+--- Review 14 ---
+Class: CS18000 | Date: 2023-05-06 | Quality: 4/5 | Difficulty: 3/5 | Would take again: Yes | Grade: A
+Tags: Group projects, Respected
+Comment: If you haven't coded before, it is likely that you will need to attend every lecture and pay attention. This course is extremely fast paced, I have multiple years of experience with Java and still struggled a lot at some points in this course. You also better hope you get a good group for the end of semester projects, or else you are in trouble.
+
+--- Review 15 ---
+Class: CS18000 | Date: 2021-08-27 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Tags: Respected, Accessible outside class, Inspirational
+Comment: Awesome professor!
+
+--- Review 16 ---
+Class: CS18000 | Date: 2020-12-02 | Quality: 5/5 | Difficulty: 4/5 | Would take again: Yes | Grade: C
+Tags: Gives good feedback, Lots of homework, Clear grading criteria
+Comment: Teaches a hard class but if you communicate with him he will make sure you get the help you need.
