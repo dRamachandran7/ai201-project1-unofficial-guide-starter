@@ -43,7 +43,7 @@ I am choosing the rate my professor page for the computer science department at 
 
 **Chunk size:**
 
-Chunking can be done by a certain amount of characters since reviews are generally short paragraphs. For instance, we can start at 90 characters ber chunk. 
+Chunking can be done by a certain amount of characters since reviews are generally short paragraphs. For instance, we can start at 120 characters ber chunk. However, we should make sure to only start that chunking after the 'Comment:' flag and parse the prof and class as metadata separately. 
 
 **Overlap:**
 
@@ -129,6 +129,24 @@ Ingestion: Web scraping script that scrapes reviews and key info as plain text -
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+
+Example chunks (metadata at top):
+
+[Turkstra_2231495_r27_c2]  prof=Jeff Turkstra  class=CS240  len=56
+'ciate everything about this class and his teaching style'
+
+[Turkstra_2231495_r162_c2]  prof=Jeff Turkstra  class=CS252  len=75
+'s. Sent several people I know to CAPS for breakdowns because of the course.'
+
+[Szpankowski_132647_r31_c2]  prof=Wojciech Szpankowski  class=CS110  len=77
+'teacher even beside these things, but he knows the material _extremely_ well.'
+
+[Crowe_2120117_r12_c2]  prof=Marta Crowe  class=CS235  len=79
+"s a professor, you'll do well. Just make sure to do the work and ask questions."
+
+[Turkstra_2231495_r100_c1]  prof=Jeff Turkstra  class=CS307  len=150
+"ut isn't afraid to take away points unnecessarily (for us, it was a simple submission error). I can see why some people don't like him but you will be"
+
 
 **Milestone 4 — Embedding and retrieval:**
 
