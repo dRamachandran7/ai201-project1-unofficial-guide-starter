@@ -32,7 +32,7 @@ CHUNKS_FILE = Path(__file__).parent / "chunks.json"
 CHROMA_DIR = Path(__file__).parent / "chroma_db"
 COLLECTION_NAME = "rmp_reviews"
 EMBED_MODEL = "all-MiniLM-L6-v2"
-TOP_K = 3  # planning.md: top-k of 3
+TOP_K = 5  # chunks retrieved per query
 BATCH_SIZE = 256
 
 # Cache the model and client so repeated retrieve() calls don't reload them.

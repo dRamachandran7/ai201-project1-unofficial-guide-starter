@@ -93,11 +93,11 @@
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Who generally teaches CS 180? | Dunsmore, Bergstrom, and sometimes Turkstra | Named Bergstrom, Turkstra, and Adams as CS 180 instructors; correctly noted the course is taught by different professors per section. | Partially relevant | Partially accurate |
+| 2 | What are some common complaints about CS 240? | Turkstra's grading scale, length of homeworks | Identified the grading scale and heavy course structure/workload ("a nightmare", "absolute trash and torture"), while noting some dissenting positive reviews. | Relevant | Accurate |
+| 3 | Who are some of the better-regarded professors? | Gustavo, Bergstrom, Dunsmore | Highlighted Gustavo Rodriguez-Rivera ("great/best/fantastic professor") and Marta Crowe as well-regarded; also surfaced a negative Turkstra review. | Partially relevant | Partially accurate |
+| 4 | Who teaches CS 182? What are some grievances with them? | Selke and Szpankowski; both have complaints about their accents | Named both Szpankowski and Selke. Grievances: Selke "reads off slides"/disorganized; Szpankowski "hard to understand" but helpful one-on-one. | Relevant | Partially accurate |
+| 5 | Who teaches CS 252, and what is the general consensus? | Gustavo Rodriguez-Rivera; generally positive | Named both Turkstra and Rodriguez-Rivera and reported a mixed consensus for each, rather than Gustavo's predominantly positive reception. | Relevant | Partially accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
