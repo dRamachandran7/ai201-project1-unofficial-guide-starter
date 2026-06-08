@@ -43,15 +43,15 @@ I am choosing the rate my professor page for the computer science department at 
 
 **Chunk size:**
 
-Chunking can be done by a certain amount of characters since reviews are generally short paragraphs. For instance, we can start at 120 characters ber chunk. However, we should make sure to only start that chunking after the 'Comment:' flag and parse the prof and class as metadata separately. 
+Chunking is done by a fixed number of characters since reviews are generally short paragraphs. We settled on 165 characters per chunk (after iterating up from 90 → 120 → 150 → 165), and we only start chunking after the 'Comment:' flag, parsing the professor and class as metadata separately. This produced 1,863 chunks from 861 reviews across 9 professors.
 
 **Overlap:**
 
-A 20 or so character overlap might be good, since that should clear any possible lost context.
+A 20 character overlap is used, since that should clear any possible lost context across chunk boundaries.
 
 **Reasoning:**
 
-Reviews are generally short paragraph, and sentences are not too long. Hence, we can use a set amoutn of characters per chunk to save time and compute. By chunking each review slightly smaller, we can also isolate certain opinions and ideas better.
+Reviews are generally short paragraphs, and sentences are not too long. Hence, we can use a set amount of characters per chunk to save time and compute. The smaller sizes we first tried (90/120) fragmented reviews mid-sentence and hurt readability/embedding quality, so we increased to 165, which captures about a sentence's worth of context per chunk while still isolating individual opinions and ideas. Only the free-text comment is chunked; the header and per-review metadata lines are excluded, and reviews with no comment are dropped.
 
 ---
 
@@ -128,7 +128,11 @@ Ingestion: Web scraping script that scrapes reviews and key info as plain text -
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
+For each part of the pipeline, I used claude code to generate the the code. I gave it the relevant section of this document, along with detailed instructions on what the code should accomplish. I then had it generate a script to help verify. For instance, I ran the example prompts through the retriever to see what chunks it would retrieve. 
+
 **Milestone 3 — Ingestion and chunking:**
+
+From the script that scraped the reviews from the webpage, only chunk the content of the review, which is the content after the 'comment: ' flag in the review.
 
 Example chunks (metadata at top):
 
@@ -150,4 +154,8 @@ Example chunks (metadata at top):
 
 **Milestone 4 — Embedding and retrieval:**
 
+Use the `all-MiniLM-L6-v2` model, loaded locally via sentence-transformers. This model is lightweight and should be sufficient for the short manner of reviews. Load the embeddings into a ChromaDB instance, which is hosted locally, and can then be used to semantically retrieve chunks along with metadata filtering.
+
 **Milestone 5 — Generation and interface:**
+
+Use gradio web UI to make a simple web interface to prompt the RAG system. For the final generation, make sure to explicitly prompt the groq LLM to ground its responses by only using the retrieved information, and give it specific instructions to cite its sources.

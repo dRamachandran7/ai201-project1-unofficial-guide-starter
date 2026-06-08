@@ -14,7 +14,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
----
+My system covers the Purdue University core CS classes' professors. Students may want to get a better idea of what the Purdue CS department is like before applying or comitting to the university, and existing students may want to know what professors to take. Therefore, by making this knowledge (through rate my professor) accessible and digestable through a chatbot, students now have a comprehensive idea of what a certain class is like. Official descriptions don't go over teaching methodologies or professor's temperments and grading scales.
 
 ## Document Sources
 
@@ -22,18 +22,24 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
+All sources are professor profiles on Rate My Professors (RMP) for the Purdue University
+West Lafayette Computer Science department, scraped via RMP's GraphQL API. Each professor
+page maps to a core CS course; together they cover the introductory sequence (CS 180/182)
+through the systems core (CS 240/250/251/252). Source #1 is the department search listing
+used to discover professors and is not scraped for review text.
+
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RMP — Purdue CS department listing | Search/index page (not scraped for reviews) | https://www.ratemyprofessors.com/search/professors/783?q=*&did=11 |
+| 2 | RMP — Jeff Turkstra (CS 240) | Student review page | https://www.ratemyprofessors.com/professor/2231495 |
+| 3 | RMP — Marta Crowe (MGMT / CS 177) | Student review page | https://www.ratemyprofessors.com/professor/2120117 |
+| 4 | RMP — Andres Posada (CS 251) | Student review page | https://www.ratemyprofessors.com/professor/2656983 |
+| 5 | RMP — George Adams (CS 250) | Student review page | https://www.ratemyprofessors.com/professor/1931762 |
+| 6 | RMP — Gustavo Rodriguez-Rivera (CS 252) | Student review page | https://www.ratemyprofessors.com/professor/132641 |
+| 7 | RMP — Sarah Selke (CS 182) | Student review page | https://www.ratemyprofessors.com/professor/2931186 |
+| 8 | RMP — Anthony Bergstrom (CS 180) | Student review page | https://www.ratemyprofessors.com/professor/2523519 |
+| 9 | RMP — Hubert Dunsmore (CS 180, dept. head) | Student review page | https://www.ratemyprofessors.com/professor/2507062 |
+| 10 | RMP — Wojciech Szpankowski (CS 182) | Student review page | https://www.ratemyprofessors.com/professor/132647 |
 
 ---
 
@@ -46,13 +52,15 @@
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunk size:** 165 characters.
 
-**Overlap:**
+**Overlap:** 20 characters (the chunking window advances by 145 characters each step, so consecutive chunks share 20 characters).
 
-**Why these choices fit your documents:**
+**Why these choices fit your documents:** RMP reviews are short, free-form paragraphs, so a fixed character window is simpler and cheaper than token-based or semantic splitting. I started at 90 characters and iterated upward (90 -> 120 -> 150 -> 165): the smaller sizes fragmented reviews mid-word and mid-sentence, hurting both readability and embedding quality, while 165 captures roughly a full sentence's worth of context per chunk yet still keeps individual opinions isolated enough to retrieve distinct points. The 20-character overlap preserves context across boundaries so a phrase split between two chunks isn't lost entirely.
 
-**Final chunk count:**
+Preprocessing: reviews are scraped via RMP's GraphQL API into one plain-text file per professor (`documents/*.txt`), so there is no HTML to strip. The chunker parses each file and chunks only the free-text comment (everything after the `Comment:` flag); the file header and the per-review metadata line (class, date, quality/difficulty, etc.) are excluded from the chunk text. Instead, the professor name and the reviewer-stated class are captured as structured metadata and attached to every chunk for filtered retrieval. Reviews with no comment (or a literal "(no comment)") are dropped since there is nothing to embed.
+
+**Final chunk count:** 1,863 chunks, produced from 861 reviews across 9 professors.
 
 ---
 
@@ -64,7 +72,7 @@
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** `all-MiniLM-L6-v2`, loaded locally via the `sentence-transformers` library. It is a small, fast, CPU-friendly model that produces 384-dimensional embeddings, which keeps indexing and query latency low for a corpus of ~1,900 short review chunks. The same model embeds both the stored chunks and the incoming query, and ChromaDB compares them by cosine distance.
 
 **Production tradeoff reflection:**
 
@@ -80,6 +88,18 @@
      the mechanism. -->
 
 **System prompt grounding instruction:**
+
+```
+You are The Unofficial Guide, an assistant that answers questions about Purdue Computer Science professors and courses using student reviews from Rate My Professors.
+
+Use only the information from the retrieved sources, do not use general information to respond to a user's prompt.
+
+Guidelines:
+- Base every claim on the numbered sources provided below. Cite the sources you rely on by their number, e.g. [1], [3].
+- When sources name the professor or class, attribute opinions to them.
+- Reviews can be subjective, satirical, or contradictory; reflect genuine disagreement rather than flattening it, and don't treat one review as fact.
+- If the sources do not contain enough information to answer, say so plainly instead of guessing.
+```
 
 **How source attribution is surfaced in the response:**
 
