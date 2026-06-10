@@ -184,4 +184,4 @@ I gave Claude Code my chunking section from the planning document, asked to to i
 
 **Instance 2**
 
-I gave Claude Code my 
+I gave Claude Code my embdedding and retrieval section of my planning markdown file, and asked it to implement it, and also test it by using my test queries to retrieve chunks. I found that the chunks it was returning were fine, so I moved on.
