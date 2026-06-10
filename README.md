@@ -74,7 +74,7 @@ Preprocessing: reviews are scraped via RMP's GraphQL API into one plain-text fil
 
 **Model used:** `all-MiniLM-L6-v2`, loaded locally via the `sentence-transformers` library. It is a small, fast, CPU-friendly model that produces 384-dimensional embeddings, which keeps indexing and query latency low for a corpus of ~1,900 short review chunks. The same model embeds both the stored chunks and the incoming query, and ChromaDB compares them by cosine distance.
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** In production, I would want to choose a model that was lightweight, but also capable of storing more information to support a larger user base. I would also make sure that it was API hosted as to reduce latency on the user's machine.
 
 ---
 
@@ -89,6 +89,8 @@ Preprocessing: reviews are scraped via RMP's GraphQL API into one plain-text fil
 
 **System prompt grounding instruction:**
 
+I made sure to give the model a detailed system prompt, instructing it to use information only from the retrieved articles, and not from its general information. Here's exactly what it was fed:
+
 ```
 You are The Unofficial Guide, an assistant that answers questions about Purdue Computer Science professors and courses using student reviews from Rate My Professors.
 
@@ -101,7 +103,7 @@ Guidelines:
 - If the sources do not contain enough information to answer, say so plainly instead of guessing.
 ```
 
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:** I gave the model very specific guidelines on how to cite its sources, and that seemed to work. I also introduced an agent that strips the class and professor metadata (where applicabale) from the user query, which helps in keeping the response more grounded.
 
 ---
 
@@ -116,7 +118,7 @@ Guidelines:
 | 1 | Who generally teaches CS 180? | Dunsmore, Bergstrom, and sometimes Turkstra | Named Bergstrom, Turkstra, and Adams as CS 180 instructors; correctly noted the course is taught by different professors per section. | Partially relevant | Partially accurate |
 | 2 | What are some common complaints about CS 240? | Turkstra's grading scale, length of homeworks | Identified the grading scale and heavy course structure/workload ("a nightmare", "absolute trash and torture"), while noting some dissenting positive reviews. | Relevant | Accurate |
 | 3 | Who are some of the better-regarded professors? | Gustavo, Bergstrom, Dunsmore | Highlighted Gustavo Rodriguez-Rivera ("great/best/fantastic professor") and Marta Crowe as well-regarded; also surfaced a negative Turkstra review. | Partially relevant | Partially accurate |
-| 4 | Who teaches CS 182? What are some grievances with them? | Selke and Szpankowski; both have complaints about their accents | Named both Szpankowski and Selke. Grievances: Selke "reads off slides"/disorganized; Szpankowski "hard to understand" but helpful one-on-one. | Relevant | Partially accurate |
+| 4 | Who teaches CS 182? What are some grievances with them? | Selke and Szpankowski; both have complaints about their accents | Named both Szpankowski and Selke. Grievances: Selke "reads off slides"/disorganized; Szpankowski "hard to understand" but helpful one-on-one. | Relevant | Accurate |
 | 5 | Who teaches CS 252, and what is the general consensus? | Gustavo Rodriguez-Rivera; generally positive | Named both Turkstra and Rodriguez-Rivera and reported a mixed consensus for each, rather than Gustavo's predominantly positive reception. | Relevant | Partially accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
@@ -137,13 +139,20 @@ Guidelines:
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
-**Question that failed:**
+**Question that failed:** Who generally teaches CS 180?
 
-**What the system returned:**
+**What the system returned:** According to the retrieved sources, CS 180 is taught by multiple professors, including Professor Anthony Bergstrom [1, 3], Professor Jeff Turkstra [2, 4], and Professor George Adams [5]. There is no single professor who is consistently mentioned as the sole teacher of CS 180, suggesting that the course may be taught by different instructors depending on the section or semester.
 
-**Root cause (tied to a specific pipeline stage):**
+Sources:
 
-**What you would change to fix it:**
+Anthony Bergstrom (CS180) — Rate My Professors: https://www.ratemyprofessors.com/professor/2523519
+Jeff Turkstra (CS180) — Rate My Professors: https://www.ratemyprofessors.com/professor/2231495
+George Adams (CS180) — Rate My Professors: https://www.ratemyprofessors.com/professor/1931762
+
+
+**Root cause (tied to a specific pipeline stage):** Documents/ingestion
+
+**What you would change to fix it:** Find more domains of information to feed to the system, which would give it a much better knowledge base to go off of.
 
 ---
 
@@ -152,9 +161,9 @@ Guidelines:
 <!-- Reflect on how planning.md shaped your implementation.
      Answer both questions with at least 2–3 sentences each. -->
 
-**One way the spec helped you during implementation:**
+**One way the spec helped you during implementation:** It allowed me to not have to reiterate myself when prompting claude code and gave it a very clear idea of what I had in mind.
 
-**One way your implementation diverged from the spec, and why:**
+**One way your implementation diverged from the spec, and why:** I ended up introducing an agentic element, by using an LLM to extract the class and professor metadata from the prompt. I then used that to filter my documents so I could have more relevant retrieved docs.
 
 ---
 
@@ -171,12 +180,8 @@ Guidelines:
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+I gave Claude Code my chunking section from the planning document, asked to to implement it, and then test it by printing out several chunks. I noticed the chunks were too small to be meaningful, so I changed the character amount and asked it to chunk again.
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+I gave Claude Code my 
